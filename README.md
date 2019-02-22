@@ -1,3 +1,3 @@
 # monolithic
-- https://stakiran.github.io/monolithic/
-- https://github.com/pages-themes/cayman
+- 公開URL: [https://stakiran.github.io/monolithic/](https://stakiran.github.io/monolithic/)
+- 利用テーマ: [cayman](https://github.com/pages-themes/cayman)
