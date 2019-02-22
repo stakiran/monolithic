@@ -3,18 +3,33 @@
 
 @import "{{ site.theme }}";
 
-h1 {
-  border-left: 8px solid black;
-  border-bottom: 4px solid black;
-  padding: 4px;
+body {
+  counter-reset: level1;
 }
 
-h2 {
-  border-bottom: 2px double black;
-  padding: 2px;
+content h1 {
+  counter-reset: level2;
 }
 
-h3 {
-  border-left: 2px double black;
-  padding: 2px;
+content h2 {
+  counter-reset: level3;
+}
+
+content h3 {
+  counter-reset: level4;
+}
+
+content h1::before {
+  counter-increment: level1;
+  content: counter(level1) ". ";
+}
+
+content h2::before {
+  counter-increment: level2;
+  content: counter(level1) "-" counter(level2) ". ";
+}
+
+content h3::before {
+  counter-increment: level3;
+  content: counter(level1) "-" counter(level2) "-" counter(level3) ". ";
 }
