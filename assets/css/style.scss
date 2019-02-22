@@ -7,29 +7,29 @@ body {
   counter-reset: level1;
 }
 
-content h1 {
+#content h1 {
   counter-reset: level2;
 }
 
-content h2 {
+#content h2 {
   counter-reset: level3;
 }
 
-content h3 {
+#content h3 {
   counter-reset: level4;
 }
 
-content h1::before {
+#content h1::before {
   counter-increment: level1;
   content: counter(level1) ". ";
 }
 
-content h2::before {
+#content h2::before {
   counter-increment: level2;
   content: counter(level1) "-" counter(level2) ". ";
 }
 
-content h3::before {
+#content h3::before {
   counter-increment: level3;
   content: counter(level1) "-" counter(level2) "-" counter(level3) ". ";
 }
