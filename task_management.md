@@ -1,6 +1,8 @@
 ---
 layout: default
 title: タスク管理概説
+github:
+  is_project_page: false
 ---
 
 # このドキュメントについて
