@@ -80,13 +80,13 @@ TODO とは Multi Attribute でない「やること」を指す。
 
 - 包含関係の親がタスク、子が TODO
   - [【クリエイターのためのタスク管理#02】タスク管理とToDoリストの違い - Mind-B](https://hir0cky.net/2016/09/26/creator-task-02/)
-  - [「タスク」と「ToDo」に概念的違いってあるのでしょうか？ -お世話にな- その他（開発・運用・管理） | 教えて!goo](https://oshiete.goo.ne.jp/qa/2757371.html)
+  - [「タスク」と「ToDo」に概念的違いってあるのでしょうか？ -お世話にな- その他（開発・運用・管理） - 教えて!goo](https://oshiete.goo.ne.jp/qa/2757371.html)
 - Public がタスク、Private が TODO
   - [uehama's blog: 「ToDoリスト」と「タスクリスト」って同じなの？](http://uehama.blogspot.com/2010/08/todo.html)
   - [What is the difference between task and Todo - ERPNext - Discuss Frappe/ERPNext](https://discuss.erpnext.com/t/what-is-the-difference-between-task-and-todo/22017)
 - 先延ばしできないのがタスク、できるのが TODO
-  - [タスクとToDoの違いって？？ | 【ノウハウコレクターからの脱却】](https://ameblo.jp/mr-consulting/entry-12025492424.html)
-  - [タスクリストとTODOリストの違いってなんだろう？ | 鳥の瞳ライフ](https://wakatakekayuu.com/task-todo-different1/)
+  - [タスクとToDoの違いって？？ - 【ノウハウコレクターからの脱却】](https://ameblo.jp/mr-consulting/entry-12025492424.html)
+  - [タスクリストとTODOリストの違いってなんだろう？ - 鳥の瞳ライフ](https://wakatakekayuu.com/task-todo-different1/)
 - 締切があるのがタスク、ないのが TODO
   - [タスク、Todo、リマインダー…違いは？？ - カレンダー　だいすき！](http://lovecal125.blog.fc2.com/blog-entry-547.html)
   - [What is the difference between an event and a task?](https://www.lessannoyingcrm.com/help/topic/Calendars/68/What+is+the+difference+between+an+event+and+a+task%3F)
@@ -180,7 +180,7 @@ FC 境界では粒度が細かい「やること」をタスクとし、粒度�
   - [サブタスク – Todoist Help](https://get.todoist.help/hc/ja/articles/206432369-%E3%82%B5%E3%83%96%E3%82%BF%E3%82%B9%E3%82%AF)
   - 4段階までサポート
 - Toodledo
-  - [Subtasking & Online To Do Lists | Toodledo Task Manager](https://www.toodledo.com/info/subtasks.php)
+  - [Subtasking & Online To Do Lists - Toodledo Task Manager](https://www.toodledo.com/info/subtasks.php)
   - Folder, Task, Subtask の 3 段階
 
 # タスク管理
