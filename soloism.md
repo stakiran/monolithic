@@ -1,4 +1,4 @@
-# ---
+---
 layout: default
 title: Soloism(ソリズム)
 ---
