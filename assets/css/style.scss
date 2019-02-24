@@ -37,16 +37,3 @@ body {
   counter-increment: level3;
   content: counter(level1) "-" counter(level2) "-" counter(level3) ". ";
 }
-
-.link-in-header:link {
-  color: #ffffff;
-}
-.link-in-header:visit {
-  color: #ffffff;
-}
-.link-in-header:hover {
-  color: #ffffff;
-}
-.link-in-header:active {
-  color: #ffffff;
-}
