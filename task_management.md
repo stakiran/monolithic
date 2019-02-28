@@ -156,32 +156,53 @@ FC 境界では粒度が細かい「やること」をタスクとし、粒度�
 
 ちなみに、タスク管理について無知な者は基本的に粒度フリーである。これを無自覚の粒度フリー(IGF - Insensible Granularity Free)という。IGF な者と議論する場合は、ファインタスクの概念は通じないことが多いため、明示的に認識を共有する必要がある。
 
+## パラメーター
+タスクはパラメーター(Parameter)を持つ。
+
+パラメーターとはタスクに関する情報のこと。パラメーターは以下の三種類から成る。
+
+- 属性(Attribute)
+- 関係(Relation)
+- 機能(Function)
+
+属性とは 1-key N-value なパラメーターで、そのタスク単体でも不足なく値が完結されるもの。
+
+関係とは「そのタスクに紐付いているタスク」に関するパラメーター。階層関係とポインターがある。関係は属性とは違い、そのタスク単体では値が完結しない。
+
+機能とはそのタスクに関するリッチなパラメーター。添付ファイルやコメントなどがある。
+
 ## 階層構造
 タスクは階層構造を持つ。
 
-階層構造の原則:
+階層構造の実現方法は二種類ある。
 
-- タスクは粒度に応じて大分類、中分類、小分類などに分ける
-- これら分類はいずれもコースタスクである
-- あるコースタスクを消化するとは、その下にぶらさがるコースタスクおよびファインタスクをすべて消化すること
+- 階層を持つ用のデータ構造を導入する(コンテナ)
+- タスクに親子情報を持たせる(関係パラメーター)
 
-コースタスクに対する呼び名の例:
+例:
 
-- カテゴリー
-- フォルダー
-- プロジェクト
-- 親タスク、子タスク、サブタスク
-- タスク
-  - 粒度フリーだとコースタスクもファインタスクもすべてタスクと呼ぶ
-
-ツールの実装例:
-
-- Todoist
-  - [サブタスク – Todoist Help](https://get.todoist.help/hc/ja/articles/206432369-%E3%82%B5%E3%83%96%E3%82%BF%E3%82%B9%E3%82%AF)
-  - 4段階までサポート
 - Toodledo
-  - [Subtasking & Online To Do Lists - Toodledo Task Manager](https://www.toodledo.com/info/subtasks.php)
   - Folder, Task, Subtask の 3 段階
+  - Folder がコンテナにあたる
+  - Task は関係パラメーター Subtask を持つ
+  - 参考: [Subtasking & Online To Do Lists - Toodledo Task Manager](https://www.toodledo.com/info/subtasks.php)
+- Todoist
+  - タスクは 4 段階までネストできる
+  - レベル1, レベル2, レベル3 のタスクは関係パラメーターを持っていると言える
+  - 参考: [サブタスク – Todoist Help](https://get.todoist.help/hc/ja/articles/206432369-%E3%82%B5%E3%83%96%E3%82%BF%E3%82%B9%E3%82%AF)
+
+### コンテナ
+コンテナ(Container)とはタスクを分類するための概念や単位。
+
+コンテナはファイルフォルダでいうフォルダのようなもので、コンテナそのものにタスクの機能はない。
+
+※コンテナにはコンテナを含めることもできる(コンテナのネスト)が、通常これが実装されることはない。これはタスク管理が「多階層の分類」よりも「フラットなタグ付け」をもって管理されるのが主流だからである。仮に多階層が必要な場合でも、コンテナではなく関係パラメーターや箇条書きなどを用いる。
+
+コンテナの呼び方の例:
+
+- カテゴリー(Category)
+- フォルダー(Folder)
+- プロジェクト(Project)
 
 # タスク管理
 タスク管理とはタスクを管理するための心構え、方法論、仕組みやツールなどの総称。
@@ -486,24 +507,6 @@ TTaM:
 ・デイリーエントリーポイント。今日何すればいいかが網羅してある。ルーチンタスク必須
 ・ポータル。すべてのタスクにアクセスできるページ。TTaM やクラウド型。一度には表示できないのでページネーションしたりフィルタリングしたり。
 ・
-
-
-
-
-# タスクのパラメーター
-タスクはパラメーター(Parameter)を持つ。
-
-パラメーターとはタスクに関する情報のこと。パラメーターは以下の三種類から成る。
-
-- 属性(Attribute)
-- 関係(Relation)
-- 機能(Function)
-
-属性とは 1-key N-value なパラメーターで、そのタスク単体でも不足なく値が完結されるもの。
-
-関係とは「そのタスクに紐付いているタスク」に関するパラメーター。階層関係とポインターがある。関係は属性とは違い、そのタスク単体では値が完結しない。
-
-機能とはそのタスクに関するリッチなパラメーター。添付ファイルやコメントなどがある。
 
 # パラメーター - 属性
 一つの属性は一つのキー(Key/設定名)と複数のバリュー(Value/設定値)を持つ。
@@ -924,6 +927,32 @@ Backlog
 
 # 参考書籍
 ★説得力増やすためにも。書名とリンク/言及方法
+
+## ウェブ資料
+非公式には x を付与。
+
+- TaskChute Family
+  - [TaskChute2_スタートアップガイド.pdf](https://cyblog.biz/file/TC2StartupGuide.pdf)
+  - [ヘルプ - TaskChute Cloud](https://taskchute.cloud/pages/help)
+  - [たすくまにゅある](https://taskuma.komadorist.com/help/top.html)
+  - x [たすくま 設定項目一覧 | NOP](http://www.shin-tan.com/taskmaSetting)
+- Toodledo
+  - [Developer's API Documentation : Tasks ✓ Toodledo API](https://api.toodledo.com/3/tasks/index.php)
+  - x [無料で抜群に高機能なオンラインToDoリスト「Toodledo」を使ってみた - GIGAZINE](http://gigazine.net/news/20140327-toodledo/)
+  - x [Toodledoの全機能紹介と、Todo管理やGTDでの利用方法 - 京都の日々々記](http://sunstar78.hatenablog.com/entry/2016/02/20/100000#section2)
+- Todoist
+  - [Todoist Help](https://support.todoist.com/hc/ja/)
+- Trello
+  - [カードを編集する - Trelloヘルプ](https://help.trello.com/article/784-editing-cards)
+- GitHub Issue
+  - [Mastering Issues · GitHub Guides](https://guides.github.com/features/issues/)
+- Remember The Milk
+  - [Remember The Milk - Services / API / Methods](https://www.rememberthemilk.com/services/api/methods.rtm)
+- todo.txt
+  - [todotxt/todo.txt: ‼️ A complete primer on the whys and hows of todo.txt.](https://github.com/todotxt/todo.txt)
+  - x [タスク管理メソッド todo.txt が面白そう - Qiita](http://qiita.com/sta/items/0f72c9c956cf05df8141)
+- todo.md
+  - [Hypercubed/todo-md: Manage your GitHub Flavored Markdown todo list from the command line](https://github.com/Hypercubed/todo-md)
 
 # ●misc
 copy and away
