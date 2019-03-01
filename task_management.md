@@ -861,10 +861,10 @@ TTaM:
 
 # タスクの種類
 
-## フェイクタスク
-フェイクタスクとはタスクのようでタスクではないものを指す。
+## ダスク
+ダスク(Dask)とはタスクのようでタスクではないものを指す。名前の由来は紛らわしさを表現「タスク」
 
-★名前が微妙。少なくともダミータスク(タスクでないものをタスクとして登録して便宜を図ったもの)と混同して紛らわしい。もっとこう良い名前ない？ダスク
+★naming: dust confuse trap タスクとしても扱えるもの タスクではないタスク(task which is not task tnt) mask マスクタスク タスクマスク(たすくま含んじゃうね)  mask task matask tamask tasmask mastask dummy cover camouflage wrapper similar alternative alter altask タスクの代わりとして使える的な オルタスク タスクの性質を持てる super sub parent child タスクの性質を所有する property 継承 inherit extend interface implementation has 拡張タスク 
 
 フェイクタスクの例:
 
