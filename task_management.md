@@ -91,6 +91,9 @@ TODO とは Multi Attribute でない「やること」を指す。
   - [タスク、Todo、リマインダー…違いは？？ - カレンダー　だいすき！](http://lovecal125.blog.fc2.com/blog-entry-547.html)
   - [What is the difference between an event and a task?](https://www.lessannoyingcrm.com/help/topic/Calendars/68/What+is+the+difference+between+an+event+and+a+task%3F)
 
+### ジョブとの違い
+ジョブ(Job)とはコンピューターにおける仕事の単位を指す。これをタスクと呼ぶ文脈も存在するが、本記事では「やること」としてのタスクとの混同を避けるため、こちらはジョブと呼ぶことにする。
+
 ## 記述
 記述とはタスクを表す文章。
 
@@ -877,6 +880,12 @@ TTaM:
 
 ## 歴史
 ★最低でも国内、できれば海外も取り上げたい。国内メインで取り上げて必要なら海外も含めるのがベターか
+
+★[Task management - Wikipedia](https://en.wikipedia.org/wiki/Task_management#cite_note-Journal_of_UKM-1) wikipediaの記事。参考が古い。2005年とか。論文とかコンサル会社の定義とかその程度か。
+
+★一応論文 [(Riss U.V., Rickayzen A., Maus H., van der Aalst W.M.P.) Challenges for Business Process and Task Management](http://www.jucs.org/jukm_0_2/riss/jukm_0_2_77_100_riss.html) personal task management ってキーワードあるな。7 Conclusions 読んだ限りだと「こういう条件整ったら生産性捗るよ」的な知見っぽくて、tm あまり関係なさそうだが
+
+★タスク管理は自由であるべき？権威を定めて導くべき？理論化とかするべき？いやたぶん知らないだけで既に論文とかたくさんある気がするけども……。 ["task management" - Google Scholar](https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=%22task+management%22&btnG=) ジョブネタが多め。どんぴしゃなのもちらほら→[What a to-do](https://dl.acm.org/citation.cfm?id=985785) これはtaskvistaというツールが出てる、歴史も少し。task list management tlm → pim personal information managementとか。……方向性違うなぁ。手段の話じゃなくてタスクという概念の話。概念をどう捉えて体系化するかの話。その辺扱った前例はないのだろか。
 
 ## タスク管理ツール一覧
 ★属性つけて表にしたい
