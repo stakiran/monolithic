@@ -1322,14 +1322,13 @@ A タスクには以下種類がある。
 ★どこまで取り上げるか。明確な基準が欲しい or とりあえず主観で並べるだけにする？
 
 ## 歴史(海外)
+- 2005/12/06 Wikipedia の [Task Managemement](https://en.wikipedia.org/w/index.php?title=Task_management&oldid=30401282) ページ新規
+- 2008/03/03 GTD [公式Twitterアカウント](https://twitter.com/GTDtimes) 開設
+  - `2008年3月に登録` ← この部分のマウスオーバーで登録日時がわかる
+  - CSS で言えば `.ProfileHeaderCard-joinDateText` クラス
 - 2009/03/06 Gina Trapani による [todo.txt](https://github.com/todotxt/todo.txt-cli/commit/959598416f4c7b2859f2914e61afcc77ab466532) リリース
 
 ## ●メモ
-★[Task management - Wikipedia](https://en.wikipedia.org/wiki/Task_management#cite_note-Journal_of_UKM-1) wikipediaの記事。参考が古い。2005年とか。論文とかコンサル会社の定義とかその程度か。
-
-★一応論文 [(Riss U.V., Rickayzen A., Maus H., van der Aalst W.M.P.) Challenges for Business Process and Task Management](http://www.jucs.org/jukm_0_2/riss/jukm_0_2_77_100_riss.html) personal task management ってキーワードあるな。7 Conclusions 読んだ限りだと「こういう条件整ったら生産性捗るよ」的な知見っぽくて、tm あまり関係なさそうだが
-
-★タスク管理は自由であるべき？権威を定めて導くべき？理論化とかするべき？いやたぶん知らないだけで既に論文とかたくさんある気がするけども……。 ["task management" - Google Scholar](https://scholar.google.co.jp/scholar?hl=ja&as_sdt=0%2C5&q=%22task+management%22&btnG=) ジョブネタが多め。どんぴしゃなのもちらほら→[What a to-do](https://dl.acm.org/citation.cfm?id=985785) これはtaskvistaというツールが出てる、歴史も少し。task list management tlm → pim personal information managementとか。……方向性違うなぁ。手段の話じゃなくてタスクという概念の話。概念をどう捉えて体系化するかの話。その辺扱った前例はないのだろか。
 
 ## タスク管理ツール一覧
 ★属性つけて表にしたい
