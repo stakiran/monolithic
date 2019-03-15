@@ -1307,9 +1307,24 @@ A タスクには以下種類がある。
 
 ※プロジェクト管理については [PMI(Project Management Institute)](https://www.pmi.org/) が存在する
 
-## 歴史
-★最低でも国内、できれば海外も取り上げたい。国内メインで取り上げて必要なら海外も含めるのがベターか
+## 歴史(国内)
+界隈においてキーとなるパーソン、組織、書籍、ツールやサービスの公開や出現を時系列で並べた。リンク先は根拠となるソース。選定は筆者の主観。人名は敬称略。
 
+- 2001/11/07 大橋悦夫による [有限会社サイバーローグ研究所](https://cyblog.co.jp/corporate) 設立
+- 2005/05/25 [シゴタノ！](https://cyblog.jp/1) 運営開始
+- 2008/07/17 [Twitter で初めて TaskChute について言及される](https://twitter.com/shigotano/status/860946329) (シゴタノによる言及)
+  - 参考1: ["タスクシュート" OR "taskchute" until:2008-08-02 - Twitter検索](https://twitter.com/search?f=tweets&q=%22%E3%82%BF%E3%82%B9%E3%82%AF%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%88%22%20OR%20%22taskchute%22%20until%3A2008-08-02&src=typd)
+  - 参考2: ["タスクシュート" OR "taskchute" until:2008-07-02 - Twitter検索](https://twitter.com/search?f=tweets&q=%22%E3%82%BF%E3%82%B9%E3%82%AF%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%88%22%20OR%20%22taskchute%22%20until%3A2008-07-02&src=typd)
+- 2014/07/02 富さやかによる [Taskuma ウェブサイト](https://github.com/taskuma/taskuma.info/commit/71c566b26161c890056ade1d83c201b7180ee552) 運用開始
+- 2016/08/05 jMatsuzaki による [TaskChute Cloud](https://jmatsuzaki.com/archives/19188) リリース
+
+★他に書きたい: GTD本出版、ハックブーム仕掛け観点で(佐々木さん曰く「ハックブームの仕掛け人」 ← 印象的なイベントが多数存在するはず)
+★どこまで取り上げるか。明確な基準が欲しい or とりあえず主観で並べるだけにする？
+
+## 歴史(海外)
+- 2009/03/06 Gina Trapani による [todo.txt](https://github.com/todotxt/todo.txt-cli/commit/959598416f4c7b2859f2914e61afcc77ab466532) リリース
+
+## ●メモ
 ★[Task management - Wikipedia](https://en.wikipedia.org/wiki/Task_management#cite_note-Journal_of_UKM-1) wikipediaの記事。参考が古い。2005年とか。論文とかコンサル会社の定義とかその程度か。
 
 ★一応論文 [(Riss U.V., Rickayzen A., Maus H., van der Aalst W.M.P.) Challenges for Business Process and Task Management](http://www.jucs.org/jukm_0_2/riss/jukm_0_2_77_100_riss.html) personal task management ってキーワードあるな。7 Conclusions 読んだ限りだと「こういう条件整ったら生産性捗るよ」的な知見っぽくて、tm あまり関係なさそうだが
