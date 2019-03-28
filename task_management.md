@@ -1470,6 +1470,10 @@ Backlog
   - [Hypercubed/todo-md: Manage your GitHub Flavored Markdown todo list from the command line](https://github.com/Hypercubed/todo-md)
 
 # ●misc
+コンテナの操作はどうする？
+
+タスクの追加 ← これタスク自体を操作してるというより、一段上のコンテナがタスクをいじってるってかんじで、つまりはメタ操作になるわけで、タスクの操作ではなくない？という気がしないでもない。でも add task とか普通に表現するけど…… add task(to this list) ← こうか。で、edit task は edit this task で list 文脈はない。この違いを上手いこと吸収したい。
+
 擬似的な関係 ……関係パラメーターを用いないで擬似的に関係(特に階層関係)を表現できること
 パラメーターの継承 https://docs.digdag.io/concepts.html 親タスクから継承するってやつ。普通のツールではないか？
 
