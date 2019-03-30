@@ -19,6 +19,5 @@ title: Monolithic
   - [Soloism(ソリズム)](soloism.md)
 
 ## 筆者について
-筆者は stakiran である。
-
-ウェブサイトは [https://stakiran.github.io/stakiran/](https://stakiran.github.io/stakiran/) を参照。連絡先などもここに記している。
+- 著者: stakiran
+- ウェブサイト: [https://stakiran.github.io/stakiran/](https://stakiran.github.io/stakiran/)
