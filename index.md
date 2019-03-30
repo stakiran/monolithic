@@ -1,9 +1,9 @@
 ---
 layout: toppage
-title: Monolithic Texts
+title: Monolithic
 ---
 
-# Monolithic Texts
+# Monolithic
 このウェブサイトでは [stakiran](https://stakiran.github.io/stakiran/) が書いた文書をまとめている。各文書は一つのテーマを一つのページ(Monolithic/一枚岩で)でまとめている。
 
 ## コンテンツ
