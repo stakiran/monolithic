@@ -4,7 +4,7 @@ title: Monolithic
 ---
 
 # Monolithic
-このウェブサイトでは [stakiran](https://stakiran.github.io/stakiran/) が書いた文書をまとめている。各文書は一つのテーマを一つのページ(Monolithic/一枚岩で)でまとめている。
+このウェブサイトでは [stakiran](https://stakiran.github.io/stakiran/) が書いた文書をまとめている。各文書は一つのテーマを一つのページ(Monolithic/一枚岩で)でまとめている。いずれも不定期更新。
 
 ## コンテンツ
 重点的に更新しているものは Active、新規したばかりのネタは Baby として配置している。
