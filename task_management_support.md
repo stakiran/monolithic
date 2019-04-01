@@ -15,7 +15,7 @@ title: タスク管理支援概説
 
 - 分解支援(BC - Breakdown Control)
   - タスクを細分化しやすくする
-  - キーワード: 細分化, 具体化
+  - キーワード: 細分化, 具体化, 実行順序
 - 集中支援(CC - Concentration Control)
   - タスクを実行しやすくする/タスクに集中しやすくする
   - キーワード: 集中, 割り込み防止, モチベーション
@@ -39,9 +39,9 @@ title: タスク管理支援概説
 
 | 項目 | 内容   |
 | ---- | ------ |
-| CC | Concentration Control | 集中支援 | 集中, 割り込み防止, モチベーション
+| BC | Breakdown Control     | 分解支援 | 細分化, 具体化, 実行順序 |
+| CC | Concentration Control | 集中支援 | 集中, 割り込み防止, モチベーション |
 | DC | Document Control      | 資料支援 | 資料, ファイル, URL, 整理 |
-| EC | Expression Control    | 表現支援 | 転送, 区切り, テンプレート, 擬似的な関係 |
 | OC | Operation Control     | 操作支援 | 文字入力効率化, Rich UI の排除, 操作に絡む効率省力自動化全般 |
 | PC | Psychology Control    | 心理支援 | 心理, ジレンマ, あるある, 罠 |
 | RC | Remindness Control    | 想起支援 | リマインダー, 動線 |
