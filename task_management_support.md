@@ -37,15 +37,18 @@ title: タスク管理支援概説
 
 表でまとめたもの:
 
-| 項目 | 内容   |
-| ---- | ------ |
-| BC | Breakdown Control     | 分解支援 | 細分化, 具体化, 実行順序 |
-| CC | Concentration Control | 集中支援 | 集中, 割り込み防止, モチベーション |
-| DC | Document Control      | 資料支援 | 資料, ファイル, URL, 整理 |
-| OC | Operation Control     | 操作支援 | 文字入力効率化, Rich UI の排除, 操作に絡む効率省力自動化全般 |
-| PC | Psychology Control    | 心理支援 | 心理, ジレンマ, あるある, 罠 |
-| RC | Remindness Control    | 想起支援 | リマインダー, 動線 |
-| SC | Schedule Control      | 予定支援 | カレンダー, 連携, 同期 |
+| 略語 | 英名称                | 和名称   | キーワード |
+| ---- | --------------------- | -------- | ---------- |
+| BC   | Breakdown Control     | 分解支援 | 細分化, 具体化, 実行順序 |
+| CC   | Concentration Control | 集中支援 | 集中, 割り込み防止, モチベーション |
+| DC   | Document Control      | 資料支援 | 資料, ファイル, URL, 整理 |
+| OC   | Operation Control     | 操作支援 | 文字入力効率化, Rich UI の排除, 操作に絡む効率省力自動化全般 |
+| PC   | Psychology Control    | 心理支援 | 心理, ジレンマ, あるある, 罠 |
+| RC   | Remindness Control    | 想起支援 | リマインダー, 動線 |
+| SC   | Schedule Control      | 予定支援 | カレンダー, 連携, 同期 |
+
+# 分解支援
+
 
 # 想起支援
 
