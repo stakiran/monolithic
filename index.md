@@ -10,14 +10,14 @@ title: Monolithic
 重点的に更新しているものは Active、新規したばかりのネタは Baby として配置している。
 
 - Active
-  - [タスク管理概論](task_management.md)
-  - [タスク管理支援概論](task_management_support.md)
-  - [Teeting(テキストチャットのみで会議する)](teeting.md)
+  - 2019/02/23 [タスク管理概論](task_management.md)
+  - 2019/03/08 [タスク管理支援概論](task_management_support.md)
 - Baby
-  - [効率論](efficy.md)
-  - [Life Programming(ライフプログラミング)](life_programming.md)
-  - [Flatism(フラティズム)](flatism.md)
-  - [Soloism(ソリズム)](soloism.md)
+  - 2019/04/03 [Teeting(テキストチャットのみで会議する)](teeting.md)
+  - 2019/03/16 [効率論](efficy.md)
+  - 2019/03/01 [Life Programming(ライフプログラミング)](life_programming.md)
+  - 2019/02/23 [Flatism(フラティズム)](flatism.md)
+  - 2019/02/23 [Soloism(ソリズム)](soloism.md)
 
 ## 筆者について
 - 著者: stakiran
