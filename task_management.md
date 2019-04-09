@@ -1468,7 +1468,7 @@ A タスクには以下種類がある。
 タスク管理界隈とはタスク管理に関する分野、コミュニティ、エコシステムなどの総称。本記事では界隈と略す。
 
 ## 定義と権威について
-2019/02 現在、界隈には世界的に統一的に定められた定義や事実上の権威などは存在しない。界隈に広まっている用語は、いずれも特定個人または組織によって発祥され、広まっていった(流行した)ものである。
+2019/02 現在、界隈には世界的権威や統一的定義等は存在しない。界隈に認知された用語は、いずれも特定個人または組織によって発祥し、それが広まったものである。
 
 ## 歴史(国内)
 界隈においてキーとなるパーソン、組織、書籍、ツールやサービスの公開や出現を時系列で並べた。リンク先はソース。選定は筆者の主観。人名は敬称略。
@@ -1481,35 +1481,41 @@ A タスクには以下種類がある。
 - 2014/07/02 富さやかによる [Taskuma ウェブサイト](https://github.com/taskuma/taskuma.info/commit/71c566b26161c890056ade1d83c201b7180ee552) 運用開始
 - 2016/08/05 jMatsuzaki による [TaskChute Cloud](https://jmatsuzaki.com/archives/19188) リリース
 
-★他に書きたい: GTD本出版、ハックブーム仕掛け観点で(佐々木さん曰く「ハックブームの仕掛け人」 ← 印象的なイベントが多数存在するはず)
-★どこまで取り上げるか。明確な基準が欲しい or とりあえず主観で並べるだけにする？
+★他に書きたい ネタも観点も曖昧すぎて迷走中:
+
+- GTD本出版
+- ハックブーム仕掛け観点(佐々木さん曰く「ハックブームの仕掛け人」 ← 印象的なイベントが多数存在するはず？)
+- rtm, toodledo, todoist, trello などの著名ツール誕生日および国内で流行ったタイミング？
+  - trello は画期的な印象がある。取り上げたい？ ← こういう主観でok？
+- 流行ったとは何？何の尺度をもって判断する？
+- どこまで取り上げるか。明確な基準が欲しい or とりあえず主観で並べるだけにする？他にも彼らの著書を取り上げるべき？でも著書網羅リストではない。歴史を端的に表現するためにピックアップするべきは何？
+- 数少ないようなら海外国内統合しちゃう？ or カテなくして国内中心でまとめちゃうか
 
 ## 歴史(海外)
 - 2005/12/06 Wikipedia の [Task Managemement](https://en.wikipedia.org/w/index.php?title=Task_management&oldid=30401282) ページ新規
 - 2008/03/03 GTD [公式Twitterアカウント](https://twitter.com/GTDtimes) 開設
-  - `2008年3月に登録` ← この部分のマウスオーバーで登録日時がわかる
-  - CSS で言えば `.ProfileHeaderCard-joinDateText` クラス
 - 2009/03/06 Gina Trapani による [todo.txt](https://github.com/todotxt/todo.txt-cli/commit/959598416f4c7b2859f2914e61afcc77ab466532) リリース
 
-## ●メモ
-
 ## タスク管理ツール一覧
-★2019/03/29 結局私が洗い出してるものなので主観でとにかくまずは並べるのが賢いかも。整理や分類は後でもできるし後でやるもの。
-★日付付けて箇条書きにするのは？時系列に誕生順に並べる感じ。これだけで歴史になる気がしないでもない。
-★属性つけて表にしたい
-★ツールの定義も。たとえばGTDはツールじゃないだろうが、実現したツールではタスク管理もできるはず。こういうのはどうするの？
-★TTaMは省きたい？ToMは？
-★とりあえずブレストする。あとで何とかする
+ただし以下に該当するものは扱わない。
+
+- TTaM(特に「プロジェクト管理」と呼ばれることがあるもの)
+  - TTaM については Wikipedia が詳しい → [Comparison of project management software - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_project_management_software)
+- 一般的に「タスク管理ツール」とは言わないが、タスク管理機能を持つもの
+  - 例: Microsoft Outlook
+    - 一般的には「メーラー」あるいは「PIM」である
+    - → [List of personal information managers - Wikipedia](https://en.wikipedia.org/wiki/List_of_personal_information_managers)
+  - 例: Google カレンダー
+    - 一般的には「カレンダー」である
+  - 例: Dynalist 
+    - 一般的には「アウトライナー」である
+
+★2019/04/09 まずはブレスト。整理はその後で。
 
 ```
-BTS省きたい Redmine Trac etc...
-TTaM はやはり省きたい。きりない
-TTaM を個人レベルで使うのも省く。
-提供元が「タスク管理」用途を意図していること←アウトライナーみたいに「その気になれば」はなし。きりがない
-ツールまだまだ多い。特にクラウド系含めるとなー……海外もよくわからんし。どうしよ
-
 Microsoft Todo
 Google Todo
+Outlook
 TaskChute
 Taskuma
 TaskChute Cloud
@@ -1518,14 +1524,9 @@ todo.txt
 todo.md
 Todoist
 Toodledo
+Remember the milk
 みかんリスト
-Trello
-Redmine
-Trac
-Backlog
 ```
-
-
 
 # 参考書籍
 
