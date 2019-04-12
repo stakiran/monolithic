@@ -14,6 +14,7 @@ title: Monolithic
   - 2019/03/08 [タスク管理支援概論](task_management_support.md)
   - 2019/03/16 [効率論](efficy.md)
 - Baby
+  - 2019/04/12 [大企業の働き方改革案](my_hatarakikata_kaikaku_of_daikigyo.md)
   - 2019/04/03 [Teeting(テキストチャットのみで会議する)](teeting.md)
   - 2019/03/01 [Life Programming(ライフプログラミング)](life_programming.md)
   - 2019/02/23 [Flatism(フラティズム)](flatism.md)
