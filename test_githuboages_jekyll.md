@@ -26,6 +26,7 @@ gfm_quirks: paragraph_end
 - リンクの altext 中に `|` があると表と解釈されてリンクにならない
 - トップに戻るリンクをどっかに設置する フッターとか？
 - url 張っただけでリンクさせる anglebracket使えじゃなくて
+  - js で re で後で張るしかなさそうか……
 
 # test area
 :smile:
