@@ -20,6 +20,8 @@ title: Monolithic
   - 2019/03/01 [Life Programming(ライフプログラミング)](life_programming.md)
   - 2019/02/23 [Flatism(フラティズム)](flatism.md)
   - 2019/02/23 [Soloism(ソリズム)](soloism.md)
+- 実験用
+  - 2019/04/14 [GitHub Pages Jekyll まわりの試行とか](test_githuboages_jekyll.md)
 
 ## 筆者について
 - 著者: stakiran
