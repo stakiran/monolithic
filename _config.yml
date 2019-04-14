@@ -2,5 +2,3 @@ url: https://stakiran.github.io/monolithic/
 theme: jekyll-theme-cayman
 plugins:
   - jemoji
-kramdown:
-  gfm_quirks: true
