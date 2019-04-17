@@ -162,6 +162,9 @@ def filter_stuff(stuff):
 ...
 
 
+## Trigger
+新たなリスト項目を得るためのヒントを提供するリストをトリガーリストという。一般論で言えば「ひらめきを得るためのヒント集・質問集」。
+
 # Tutorial
 Target User
 
