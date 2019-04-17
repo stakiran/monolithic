@@ -22,7 +22,21 @@ title: GTD
 
 # Workflow
 
-## Cycle
+## Steps
+大別した 3 ステップ
+
+- Input
+  - Collect > Process > Organize
+  - 頻度は「初回時」と「随時(低頻度)」
+- Reflect
+  - Review
+  - 頻度は「定期的」
+- Operate
+  - Do
+  - 頻度は「毎日」
+
+オリジナルの 5 ステップ
+
 - Collect(収集)
   - 気になることを洗い出す
   - 気になること
@@ -44,10 +58,17 @@ title: GTD
     - カレンダー
     - 手帳
     - リストを書き並べたテキストファイル
-- Review(見直し)
+- Review(見直し) ★これ合ってる？調べると Plan って単語当たってるんだけど……？
   - 各リストを現状況に即してメンテナンスする
-    - ★someday や waiting 系もメンテするし height 系もメンテするんだが……
-  - メンテナンス
+  - メンテ頻度およびメンテ操作はリスト毎に異なる
+  - メンテ頻度
+    - 随時
+    - 毎日
+    - 週一
+    - 月一
+    - 四半期に一度
+    - 年一
+  - メンテ操作
     - 項目の追加
     - 項目の編集(変更)
     - 項目の移動
@@ -56,9 +77,45 @@ title: GTD
   - Nextaction に従って行動する
 
 ## Stuff Filter
-気になることを仕分けるためのフィルター。意味的判断を要するため自動化不可能。
+気になることを仕分けるためのフィルター。意味的判断を要するため自動化は不可能。
+
+### アルゴリズム(Python風に)
 
 ```
+def filter_stuff(stuff):
+  if is_not_actionable(stuff):
+    if is_not_need(stuff):
+      # Remove the stuff
+      return
+    if is_document(stuff):
+      list_document.push(stuff)
+      return
+    list_someday.push(stuff)
+
+  if is_not_oneaction_completable(stuff):
+    list_project.push(stuff)
+    return
+
+  if is_within_2min_completable(stuff):
+    # Do the stuff right now
+    sleep(120)
+    return
+
+  if should_not_act_by_me(stuff):
+    list_waiting.push(stuff)
+    return
+
+  if has_specific_date(stuff):
+    calender.add_event(stuff)
+    return
+
+  list_nextaction.push(stuff)
+```
+
+### アルゴリズム(5-Level)
+
+```
+   気になること
      ||
      VV
 
@@ -77,30 +134,40 @@ title: GTD
    次に取るべき行動
 ```
 
-
 # List
-- inbox とか cycle で使うリスト
-- trigger list
-- height list
 
-★どうわけよ。height の中には project も nextaction もあるけど。inbox や someday は？
+## 13 List
+- Nextaction(0m)
+- Project(1000m)
+- Restriction(2000m)
+- Milestone(3000m)
+- Ideal(4000m)
+- Philosophy(5000m)
+- Inbox
+- Someday
+- Calender
+- Waiting
+- Document
+- Context
+- Trigger
 
-# ●misc
-・main lower 7 list
-  ・inbox
-  ・someday
-  ・projects
-  ・waiting
-  ・calender
-  ・document
-  ・nextaction
-・main upper 2 list
-  ・height
-  ・help(workflowなど要点をまとめたもの)
-・helper
-  ・contexts
-  ・triggerlist_IF_XXXX
+便宜的に「リスト」と呼称するが実運用上もリストであるとは限らない。たとえばカレンダーはリストではなくカレンダーツールで管理するのが一般的。
 
-やること/やるべきこと/やりたいこと/やらなければならないこと ← この辺一言で表す用語ない？
+★詳細議論に入る前に表でまとめたい
 
-gtd is list 理論を模索したい、一方で一般論をシンプルに整理したい。ごちゃまぜいかんぞ
+## Nextaction
+...
+
+## Project
+...
+
+
+# 参考情報
+
+## 書籍
+★GTD本読み返して一通り上げてここにも挙げとく
+
+## ネット
+- [【再掲】GTD歴６年目の私が、これ以上ないくらい丁寧に解説します | BrownDots](https://browndots.net/2015/09/01/gtdmatome/)
+  - capture, clarify, organize, reflect, engage という言葉を使っている
+- [The GTD Flowchart Explained: Infographic and Process Breakdown](https://flow-e.com/gtd/flowchart/)
