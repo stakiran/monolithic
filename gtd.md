@@ -79,7 +79,7 @@ title: GTD
 ## Stuff Filter
 気になることを仕分けるためのフィルター。意味的判断を要するため自動化は不可能。
 
-### アルゴリズム(Python風に)
+### Algorithm with pythonic
 
 ```
 def filter_stuff(stuff):
@@ -112,7 +112,7 @@ def filter_stuff(stuff):
   list_nextaction.push(stuff)
 ```
 
-### アルゴリズム(5-Level)
+### Algorithm with 5 level rough JP
 
 ```
    気になること
@@ -162,12 +162,37 @@ def filter_stuff(stuff):
 ...
 
 
-# 参考情報
+# Tutorial
+Target User
 
-## 書籍
+- To have clear vision, purpose, philosophy or mission of life
+- To have many musttasks without 
+
+Prepare Workflow
+
+- Learn about GTD
+- Learn about tools
+- Do collect(3h)
+- Do process
+- Select tools or design list format to deal with 13 lists
+- Do organize
+- Add reminder to review in suit timing
+
+Prepare Height
+
+- Enumerate Philosophy
+- Enumerate Ideal
+- Enumerate Milestone from Ideal
+- Enumerate Restriction
+- Enumerate Project from Milestone and Restriction
+- Enumerate Nextaction from Project
+
+# Further Reading
+
+## Books
 ★GTD本読み返して一通り上げてここにも挙げとく
 
-## ネット
+## Net
 - [【再掲】GTD歴６年目の私が、これ以上ないくらい丁寧に解説します | BrownDots](https://browndots.net/2015/09/01/gtdmatome/)
   - capture, clarify, organize, reflect, engage という言葉を使っている
 - [The GTD Flowchart Explained: Infographic and Process Breakdown](https://flow-e.com/gtd/flowchart/)
