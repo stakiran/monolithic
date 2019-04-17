@@ -14,6 +14,7 @@ title: Monolithic
   - 2019/03/08 [タスク管理支援概論](task_management_support.md)
   - 2019/03/16 [効率論](efficy.md)
 - Baby
+  - 2019/04/17 [GTD](gtd.md)
   - 2019/04/17 [Hack をひたすらまとめる試み](hacks.md)
   - 2019/04/15 [Windows PC の効率化](efficy_windows.md)
   - 2019/04/14 [趣味学](hobbilogy.md)
