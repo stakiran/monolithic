@@ -165,27 +165,31 @@ def filter_stuff(stuff):
 # Tutorial
 Target User
 
-- To have clear vision, purpose, philosophy or mission of life
-- To have many musttasks without 
+- 人生に対して明確なビジョン、目的、哲学、ミッション等を持っている
+- やるべきこと・やりたいことが多すぎて飽和している
 
-Prepare Workflow
+Tutorial Flow
 
-- Learn about GTD
-- Learn about tools
-- Do collect(3h)
-- Do process
-- Select tools or design list format to deal with 13 lists
-- Do organize
-- Add reminder to review in suit timing
-
-Prepare Height
-
-- Enumerate Philosophy
-- Enumerate Ideal
-- Enumerate Milestone from Ideal
-- Enumerate Restriction
-- Enumerate Project from Milestone and Restriction
-- Enumerate Nextaction from Project
+- 1: Prepare Workflow
+  - Learn about GTD
+  - Learn about tools
+    - Task management tool
+    - Calender/Scheduler
+    - Reminder
+    - Memo apps
+    - Textfile/Texteditor
+  - Do collect
+  - Do process
+  - Select tools or design list format to deal with 13 lists
+  - Do organize
+  - Add reminder to review in suit timing
+- 2: Prepare Height
+  - Enumerate Philosophy
+  - Enumerate Ideal
+  - Enumerate Milestone from Ideal
+  - Enumerate Restriction
+  - Enumerate Project from Milestone and Restriction
+  - Enumerate Nextaction from Project
 
 # Further Reading
 
