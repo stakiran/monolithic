@@ -162,6 +162,7 @@ Helper 2 List:
 便宜的に「リスト」と呼称するが実運用上もリストであるとは限らない。たとえばカレンダーはリストではなくカレンダーツールで管理するのが一般的。
 
 ## Summary
+○ は書くだけ、△は要フォーマット工夫、×は要運用工夫・要システム
 
 | リスト名 | 複雑性 | ボリューム | レビュー頻度 | フィルターステップ |
 | ------- | ----- | --------- | ----------- | -------- |
@@ -169,15 +170,15 @@ Helper 2 List:
 | 4000m Ideal       | ○ | 1L    | per 360d | -     |
 | 3000m Milestone   | ○ | 1L    | per 120d | -     |
 | 2000m Restriction | ○ | 1L    | A/N      | -     |
-| 1000m Project     | ○ | 10L   | per 1w   | Step3 |
+| 1000m Project     | △ | 10L   | per 7d   | Step3 |
 | 0000m Nextaction  | × | 100L  | Everyday | Step5 |
 | Inbox             | ○ | 100L  | -        | Step1 |
 | Document          | △ | 100L  | -        | Step2 |
-| Someday           | ○ | 1000L | -        | Step2 |
-| Waiting           | ○ | 10L   | -        | Step4 |
+| Someday           | △ | 1000L | -        | Step2 |
+| Waiting           | △ | 10L   | -        | Step4 |
 | Calender          | △ | 10L   | -        | Step4 |
-| Context           | ○ | 10L   | -        | -     |
-| Trigger           | ○ | 10L   | -        | -     |
+| Context           | △ | 10L   | -        | -     |
+| Trigger           | △ | 10L   | -        | -     |
 
 ## Nextaction
 ...
