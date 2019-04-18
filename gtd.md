@@ -137,23 +137,29 @@ def filter_stuff(stuff):
 # List
 
 ## 13 List
+Height 6 List:
+
 - Nextaction(0m)
 - Project(1000m)
 - Restriction(2000m)
 - Milestone(3000m)
 - Ideal(4000m)
 - Philosophy(5000m)
+
+Work 5 List:
+
 - Inbox
 - Someday
 - Calender
 - Waiting
 - Document
+
+Helper 2 List:
+
 - Context
 - Trigger
 
 便宜的に「リスト」と呼称するが実運用上もリストであるとは限らない。たとえばカレンダーはリストではなくカレンダーツールで管理するのが一般的。
-
-★詳細議論に入る前に表でまとめたい
 
 ## Summary
 
@@ -170,7 +176,8 @@ def filter_stuff(stuff):
 | Someday           | ○ | 1000L | -        | Step2 |
 | Waiting           | ○ | 10L   | -        | Step4 |
 | Calender          | △ | 10L   | -        | Step4 |
-
+| Context           | ○ | 10L   | -        | -     |
+| Trigger           | ○ | 10L   | -        | -     |
 
 ## Nextaction
 ...
