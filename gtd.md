@@ -157,15 +157,19 @@ def filter_stuff(stuff):
 
 ## Summary
 
-| リスト名 | 複雑性 | ボリューム | レビュー頻度 | フィルター |
+| リスト名 | 複雑性 | ボリューム | レビュー頻度 | フィルターステップ |
 | ------- | ----- | --------- | ----------- | -------- |
-| 5000m Philosophy  | ◎ | 1L    | per 360d | - |
-| 4000m Ideal       | ◎ | 1L    | per 360d | - |
-| 3000m Milestone   | ◎ | 1L    | per 120d | - |
-| 2000m Restriction | ◎ | 1L    | A/N      | - |
-| 1000m Project     | ○ | 10L   | per 1w   | - |
-| 0000m Nextaction  | × | 1000L | Everyday | - |
-| Inbox | ◎ | 100 | - | Step1 |
+| 5000m Philosophy  | ○ | 1L    | per 360d | -     |
+| 4000m Ideal       | ○ | 1L    | per 360d | -     |
+| 3000m Milestone   | ○ | 1L    | per 120d | -     |
+| 2000m Restriction | ○ | 1L    | A/N      | -     |
+| 1000m Project     | ○ | 10L   | per 1w   | Step3 |
+| 0000m Nextaction  | × | 100L  | Everyday | Step5 |
+| Inbox             | ○ | 100L  | -        | Step1 |
+| Document          | △ | 100L  | -        | Step2 |
+| Someday           | ○ | 1000L | -        | Step2 |
+| Waiting           | ○ | 10L   | -        | Step4 |
+| Calender          | △ | 10L   | -        | Step4 |
 
 
 ## Nextaction
