@@ -12,9 +12,10 @@ title: Monolithic
 - Active
   - 2019/02/23 [タスク管理概論](task_management.md)
   - 2019/03/08 [タスク管理支援概論](task_management_support.md)
+  - 2019/04/17 [GTD](gtd.md)
   - 2019/03/16 [効率論](efficy.md)
 - Baby
-  - 2019/04/17 [GTD](gtd.md)
+  - 2019/04/19 [主なタスク管理手法](task_mamagement_methods.md)
   - 2019/04/17 [Hack をひたすらまとめる試み](hacks.md)
   - 2019/04/15 [Windows PC の効率化](efficy_windows.md)
   - 2019/04/14 [趣味学](hobbilogy.md)
@@ -23,6 +24,7 @@ title: Monolithic
   - 2019/03/01 [Life Programming(ライフプログラミング)](life_programming.md)
   - 2019/02/23 [Flatism(フラティズム)](flatism.md)
   - 2019/02/23 [Soloism(ソリズム)](soloism.md)
+- Prostrate
 - 実験用
   - 2019/04/14 [GitHub Pages Jekyll まわりの試行とか](test_githuboages_jekyll.md)
 
