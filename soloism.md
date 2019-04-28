@@ -228,5 +228,5 @@ https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/11/13/121200
   - solitary はない → むしろ独りを好き好んでいる
 - [solitary - ロングマン現代英英辞典でのsolitaryの意味 - LDOCE](https://www.ldoceonline.com/jp/dictionary/solitary)
   - 単に single だったり without anyone else with you だったりするか、because you like being anlone
-- [lonely | ロングマン現代英英辞典でのlonelyの意味 | LDOCE](https://www.ldoceonline.com/jp/dictionary/lonely#lonely__5)
+- [lonely - ロングマン現代英英辞典でのlonelyの意味 - LDOCE](https://www.ldoceonline.com/jp/dictionary/lonely#lonely__5)
   - unhappy という説明が入ってきている
