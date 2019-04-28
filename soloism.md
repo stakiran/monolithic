@@ -6,8 +6,35 @@ title: Soloism(ソリズム)
 # Soloism(ソリズム)
 Soloism(ソリズム)とは恋人や友達に頼らずに人生を充実させるという人生観・主義。
 
+## ソリストがしないこと
+恋人をつくること
+友達をつくること
+リアルで雑談すること
+ネットで雑談すること
+
+友達の定義
+学校や職場で一緒にメシを食べる or 一緒にいたとしたらメシを食べる
+
+プライベートで二人きりで出かけるのが自然
+連絡先を交換している
+
+ or やろうと思えばすぐにできる
+赤の他人相手よりもリラックスして応対できる
+
+
+一日数十分以上の雑談、またはそれが必要となる場への参加 ← 風俗がはずれない
+目的としてのコミュニケーション
+
 ## Solo(ソロ)
 ★ソロという状態をきちんと定量的に定義したい。友達がいないとは？永久的に？年に一度旧友と会うのもダメ？家族がいる引きこもりは？SG比。友達も定義も。
+
+友達：「プライベートで二人きりで出かけること」が自然に行える関係。やろうと思えば相談や報酬や強制でできる、は違う。利害ではない。職場上の関係でもない。友達の友達でもない。
+一人暮らし + 友達がいない。
+雑談は一日ゼロもありえる。会社や通っている店などで一日数言くらいはある。仕事やサービス利用の延長で数分以内話す。
+一緒に遊ぶことをしない。
+恋人と過ごさない。
+人と過ごさない。
+
 
 ## Soloist(ソリスト)
 ソリズムに取り組む者を Soloist(ソリスト) と呼ぶ。
@@ -188,3 +215,18 @@ Soloism Workflowどうやって人生を充実させるか。
 https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/11/13/121200
 コミュ障、コミュ症、人見知り、シャイ、対人恐怖症
 https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/11/13/121200
+
+ソリタリーという言葉、はじめて聞いた
+- [solitaryの意味・使い方 - 英辞郎 on the WEB：アルク](https://eow.alc.co.jp/search?q=solitary)
+- [友だちなんて必要ない「ソリタリー」に救われる人々 — 土屋 義規 – アゴラ](http://agora-web.jp/archives/1591245.html)
+  - 『先日放送された『ホンマでっか!? TV』で「ソリタリー」が取り上げられ』 2014/04/18 の記事
+  - 生物学的な指向として独りを好む者がいる
+  - 遺伝性が高い
+- [ソリタリー性質とは - はてなキーワード](http://d.hatena.ne.jp/keyword/%A5%BD%A5%EA%A5%BF%A5%EA%A1%BC%C0%AD%BC%C1)
+- [solitaryの意味 - 「孤独な」じゃないよ - Englishに英語](https://www.sanctio.net/solitary/)
+  - loneliness はネガティブなニュアンスある
+  - solitary はない → むしろ独りを好き好んでいる
+- [solitary - ロングマン現代英英辞典でのsolitaryの意味 - LDOCE](https://www.ldoceonline.com/jp/dictionary/solitary)
+  - 単に single だったり without anyone else with you だったりするか、because you like being anlone
+- [lonely | ロングマン現代英英辞典でのlonelyの意味 | LDOCE](https://www.ldoceonline.com/jp/dictionary/lonely#lonely__5)
+  - unhappy という説明が入ってきている
