@@ -237,6 +237,6 @@ Tutorial Flow
 ★GTD本読み返して一通り上げてここにも挙げとく
 
 ## Net
-- [【再掲】GTD歴６年目の私が、これ以上ないくらい丁寧に解説します | BrownDots](https://browndots.net/2015/09/01/gtdmatome/)
+- [【再掲】GTD歴６年目の私が、これ以上ないくらい丁寧に解説します - BrownDots](https://browndots.net/2015/09/01/gtdmatome/)
   - capture, clarify, organize, reflect, engage という言葉を使っている
 - [The GTD Flowchart Explained: Infographic and Process Breakdown](https://flow-e.com/gtd/flowchart/)
