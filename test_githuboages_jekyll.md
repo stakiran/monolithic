@@ -23,8 +23,10 @@ gfm_quirks: paragraph_end
 ```
 
 # todo
-- リンクの altext 中に `|` があると表と解釈されてリンクにならない
-- トップに戻るリンクをどっかに設置する フッターとか？
+- ~~リンクの altext 中に `|` があると表と解釈されてリンクにならない~~
+  - 無理っぽい
+  - 唯一見つかったのが [Kramdown bug - pipe character in Markdown link creates a table · Issue #2818 · jekyll/jekyll · GitHub](https://github.com/jekyll/jekyll/issues/2818) だが「ハイフンに置き換えるしかない」で結論
+- ~~トップに戻るリンクをどっかに設置する フッターとか？~~ フッターに
 - url 張っただけでリンクさせる anglebracket使えじゃなくて
   - js で re で後で張るしかなさそうか……
 
