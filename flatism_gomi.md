@@ -1,3 +1,21 @@
+# 2019/05/01
+
+## 自己満なので廃止 Flatism is/is not XXXX
+
+### フラティズムは～～である
+- フラティズムはアイデアである(Flatism is idea)
+- フラティズムはコンセプトである(Flatism is concept)
+- フラティズムはスタンスである(Flatism is stance)
+- フラティズムはライフスタイルである(Flatism is lifestyle)
+- フラティズムはライフハックである(Flatism is lifehack)
+
+### フラティズムは～～ではない
+- フラティズムは宗教ではない(Flatism is not creed)
+- フラティズムは教育ではない(Flatism is not education)
+- フラティズムはルールではない(Flatism is not rule)
+- フラティズムはゲームではない(Flatism is not game)
+- フラティズムはシステムではない(Flatism is not system)
+
 # 2019/03/02
 ブログ時の思いつき。
 
