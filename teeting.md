@@ -3,6 +3,8 @@ layout: default
 title: Teeting
 ---
 
+2019/05/03 今の実力で出せるところまでは出したのでいったん閉じる
+
 # Teeting
 Teeting とはテキストチャットのみで打ち合わせを行うこと。Text + Meeting = Teeting。
 
