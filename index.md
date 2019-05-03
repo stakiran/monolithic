@@ -9,12 +9,16 @@ title: Monolithic
 ## コンテンツ
 見方:
 
-- 1: Baby 新規したばかりのネタ
-- 2: Children 方向性が定まってきたもの(Babyから派生する)
-- 3: Active 重点的に更新しているもの
-- 4: Archive 一通り完成したもの
-- 4: Trash 途中で頓挫したもの
-- Test このサイトの実験など
+- カテゴリ
+  - 1: Baby 新規したばかりのネタ
+  - 2: Children 方向性が定まってきたもの(Babyから派生する)
+  - 3: Active 重点的に更新しているもの
+  - 4: Archive 一通り完成したもの
+  - 4: Trash 途中で頓挫したもの
+  - Test このサイトの実験など
+- 日付
+  - YYYY/MM/DD: この日にページをつくった
+  - yyyy/mm/dd YYYY/MM/DD: YYYY/MM/DD にページをつくり、yyyy/mm/dd に結論付けた
 
 コンテンツ:
 
@@ -29,13 +33,13 @@ title: Monolithic
 - Baby
   - 2019/04/19 [主なタスク管理手法](task_mamagement_methods.md)
   - 2019/04/17 [Hack をひたすらまとめる試み](hacks.md)
-  - 2019/04/15 [Windows PC の効率化](efficy_windows.md)
   - 2019/04/14 [趣味学](hobbilogy.md)
   - 2019/04/12 [大企業の働き方改革案](my_hatarakikata_kaikaku_of_daikigyo.md)
   - 2019/04/03 [Teeting(テキストチャットのみで会議する)](teeting.md)
   - 2019/03/01 [Life Programming(ライフプログラミング)](life_programming.md)
 - Archive
 - Trash
+  - 2019/05/03 2019/04/15 [Windows PC の効率化](efficy_windows.md)
 - Test
   - 2019/04/14 [GitHub Pages Jekyll まわりの試行とか](test_githuboages_jekyll.md)
 
