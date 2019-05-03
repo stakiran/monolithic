@@ -28,12 +28,12 @@ title: Monolithic
   - 2019/04/17 [GTD](gtd.md)
   - 2019/03/16 [効率論](efficy.md)
 - Children
+  - 2019/04/14 [趣味学](hobbilogy.md)
   - 2019/02/23 [Flatism(フラティズム)](flatism.md)
   - 2019/02/23 [Soloism(ソリズム)](soloism.md)
 - Baby
   - 2019/04/19 [主なタスク管理手法](task_mamagement_methods.md)
   - 2019/04/17 [Hack をひたすらまとめる試み](hacks.md)
-  - 2019/04/14 [趣味学](hobbilogy.md)
   - 2019/04/12 [大企業の働き方改革案](my_hatarakikata_kaikaku_of_daikigyo.md)
   - 2019/03/01 [Life Programming(ライフプログラミング)](life_programming.md)
 - Archive
