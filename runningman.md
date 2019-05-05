@@ -52,7 +52,7 @@ title: ランニングマン研究所
 フロントランニングマン(FRM - Front Runningman)とは、ランニングマンしながら前進すること。単にフロントともいう。
 
 ## 引き幅と上げ幅
-![runningman_length.jpg](img/runningman_length.jpg) /
+![runningman_length.jpg](img/runningman_length.jpg)
 
 引き幅(PuLen - Pulling Length)とは「ランニングマンの引き」の距離。定量的には足の大きさ(一足、二足、1.5足)を使って示す。
 
@@ -65,7 +65,7 @@ title: ランニングマン研究所
 - レベル5: 股以上
 
 ## 踏み角度
-![runningman_stompangle.jpg](img/runningman_stompangle.jpg) /
+![runningman_stompangle.jpg](img/runningman_stompangle.jpg)
 
 踏み角度(Stomp Angle)とはランニングマンの「上げ足」を下ろす時の角度。
 
@@ -76,7 +76,7 @@ title: ランニングマン研究所
 - 90: MAS のランニングマン
 
 ## 1P/2P
-![runningman_pulling_12.jpg](img/runningman_pulling_12.jpg) /
+![runningman_pulling_12.jpg](img/runningman_pulling_12.jpg)
 
 1P(First Pulling)とはランニングマンにおける(引き足の)一回目の引き。
 
