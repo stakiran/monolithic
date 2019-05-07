@@ -6,7 +6,7 @@ title: タスク管理概説
 # このドキュメントについて
 タスク管理の体系化を試みた文書である。
 
-※タスク管理に直接関与しない周辺については [タスク管理支援](task_management_support.md) や [主なタスク管理手法](task_mamagement_methods.md) を参照。
+※タスク管理に直接関与しない周辺については [タスク管理支援](task_management_support.md) や [主なタスク管理手法](task_management_methods.md) を参照。
 
 ## 目次構造
 大見出しの構造と概要についてのみまとめる。
