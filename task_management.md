@@ -1494,66 +1494,32 @@ A タスクには以下種類がある。
 ## 定義と権威について
 2019/02 現在、界隈には世界的権威や統一的定義等は存在しない。界隈に認知された用語は、いずれも特定個人または組織によって発祥し、それが広まったものである。
 
-## 歴史(国内)
-界隈においてキーとなるパーソン、組織、書籍、ツールやサービスの公開や出現を時系列で並べた。リンク先はソース。選定は筆者の主観。人名は敬称略。
+## 歴史
+界隈においてキーとなるパーソン、組織、書籍、ツールやサービスの公開や出現などを筆者主観で選定し、時系列で並べた。なお人名は敬称略とし、TTaM は扱わない。
 
 - 2001/11/07 大橋悦夫による [有限会社サイバーローグ研究所](https://cyblog.co.jp/corporate) 設立
 - 2005/05/25 [シゴタノ！](https://cyblog.jp/1) 運営開始
+- 2005/12/06 Wikipedia の [Task Managemement](https://en.wikipedia.org/w/index.php?title=Task_management&oldid=30401282) ページ新規
+- 2006/05/18 GTD [ストレスフリーの仕事術本](https://www.amazon.co.jp/dp/4576060732) 国内販売開始
+- 2006/08/xx Remember the milk が国内で人気急上昇
+  - [remember the milk - 調べる - Google トレンド](https://trends.google.co.jp/trends/explore?date=all&geo=JP&q=remember%20the%20milk)
+- 2008/01/xx OmniFocus が国内で人気急上昇
+  - [OmniFocus - 調べる - Google トレンド](https://trends.google.co.jp/trends/explore?date=all&geo=JP&q=OmniFocus)
+- 2008/03/03 GTD [公式Twitterアカウント](https://twitter.com/GTDtimes) 開設
 - 2008/07/17 [Twitter で初めて TaskChute について言及される](https://twitter.com/shigotano/status/860946329) (シゴタノによる言及)
   - 参考1: ["タスクシュート" OR "taskchute" until:2008-08-02 - Twitter検索](https://twitter.com/search?f=tweets&q=%22%E3%82%BF%E3%82%B9%E3%82%AF%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%88%22%20OR%20%22taskchute%22%20until%3A2008-08-02&src=typd)
   - 参考2: ["タスクシュート" OR "taskchute" until:2008-07-02 - Twitter検索](https://twitter.com/search?f=tweets&q=%22%E3%82%BF%E3%82%B9%E3%82%AF%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%88%22%20OR%20%22taskchute%22%20until%3A2008-07-02&src=typd)
+- 2008/12/xx Toodledo が国内で人気急上昇
+  - [toodledo - 調べる - Google トレンド](https://trends.google.co.jp/trends/explore?date=all&geo=JP&q=toodledo)
+- 2009/03/06 Gina Trapani による [todo.txt](https://github.com/todotxt/todo.txt-cli/commit/959598416f4c7b2859f2914e61afcc77ab466532) リリース
+- 2011/09/13 Fog Creek Software による [Trello](https://trello.com/) リリース
+- 2012/01/xx  TaskChute が国内で人気急上昇
+  - [taskchute - 調べる - Google トレンド](https://trends.google.co.jp/trends/explore?date=all&geo=JP&q=taskchute)
+- 2014/05/xx Todoist が国内で人気急上昇
+  - [todoist - 調べる - Google トレンド](https://trends.google.co.jp/trends/explore?date=all&geo=JP&q=todoist)
 - 2014/07/02 富さやかによる [Taskuma ウェブサイト](https://github.com/taskuma/taskuma.info/commit/71c566b26161c890056ade1d83c201b7180ee552) 運用開始
 - 2016/08/05 jMatsuzaki による [TaskChute Cloud](https://jmatsuzaki.com/archives/19188) リリース
-
-★他に書きたい ネタも観点も曖昧すぎて迷走中:
-
-- GTD本出版
-- ハックブーム仕掛け観点(佐々木さん曰く「ハックブームの仕掛け人」 ← 印象的なイベントが多数存在するはず？)
-- rtm, toodledo, todoist, trello などの著名ツール誕生日および国内で流行ったタイミング？
-  - trello は画期的な印象がある。取り上げたい？ ← こういう主観でok？
-  - asana は割と後発だがよく名を見かける
-- 流行ったとは何？何の尺度をもって判断する？
-- どこまで取り上げるか。明確な基準が欲しい or とりあえず主観で並べるだけにする？他にも彼らの著書を取り上げるべき？でも著書網羅リストではない。歴史を端的に表現するためにピックアップするべきは何？
-- 数少ないようなら海外国内統合しちゃう？ or カテなくして国内中心でまとめちゃうか
-
-## 歴史(海外)
-- 2005/12/06 Wikipedia の [Task Managemement](https://en.wikipedia.org/w/index.php?title=Task_management&oldid=30401282) ページ新規
-- 2008/03/03 GTD [公式Twitterアカウント](https://twitter.com/GTDtimes) 開設
-- 2009/03/06 Gina Trapani による [todo.txt](https://github.com/todotxt/todo.txt-cli/commit/959598416f4c7b2859f2914e61afcc77ab466532) リリース
-
-## タスク管理ツール一覧
-ただし以下に該当するものは扱わない。
-
-- TTaM(特に「プロジェクト管理」と呼ばれることがあるもの)
-  - TTaM については Wikipedia が詳しい → [Comparison of project management software - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_project_management_software)
-- 一般的に「タスク管理ツール」とは言わないが、タスク管理機能を持つ(あるいはタスク管理として使いこなせる)もの
-  - 例: Microsoft Outlook
-    - 一般的には「メーラー」あるいは「PIM」である
-    - → [List of personal information managers - Wikipedia](https://en.wikipedia.org/wiki/List_of_personal_information_managers)
-  - 例: Google カレンダー
-    - 一般的には「カレンダー」である
-  - 例: Dynalist 
-    - 一般的には「アウトライナー」である
-
-★2019/04/09 まずはブレスト。整理はその後で。
-
-★自己啓発書でしれっと取り上げられてるタスク管理手法とかはどうする？
-
-```
-Microsoft Todo
-Google Todo
-Outlook
-TaskChute
-Taskuma
-TaskChute Cloud
-Tritask
-todo.txt
-todo.md
-Todoist
-Toodledo
-Remember the milk
-みかんリスト
-```
+- 2017/04/24 ClickUp [公式Twitterアカウント](https://twitter.com/ClickUp_app) 解説
 
 # 参考書籍
 
