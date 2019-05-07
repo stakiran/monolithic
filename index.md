@@ -13,8 +13,7 @@ title: Monolithic
   - 1: Baby 新規したばかりのネタ
   - 2: Children 方向性が定まってきたもの(Babyから派生する)
   - 3: Active 重点的に更新しているもの
-  - 4: Archive (現時点で可能な範囲で)一通り完成したもの
-  - 4: Trash 途中で頓挫したもの
+  - 4: Archive (現時点で可能な範囲で)一通り完成したもの、またはいったん頓挫したもの
   - Test このサイトの実験など
 - 日付
   - YYYY/MM/DD: この日にページをつくった
@@ -39,7 +38,6 @@ title: Monolithic
   - 2019/03/01 [Life Programming(ライフプログラミング)](life_programming.md)
 - Archive
   - 2019/05/03 2019/04/03 [Teeting(テキストチャットのみで会議する)](teeting.md)
-- Trash
   - 2019/05/03 2019/04/15 [Windows PC の効率化](efficy_windows.md)
 - Test
   - 2019/04/14 [GitHub Pages Jekyll まわりの試行とか](test_githuboages_jekyll.md)
