@@ -31,6 +31,7 @@ title: Monolithic
   - 2019/02/23 [Flatism(フラティズム)](flatism.md)
   - 2019/02/23 [Soloism(ソリズム)](soloism.md)
 - Baby
+  - 2019/05/08 [吉良野式支出管理](staspecon.md)
   - 2019/05/03 [ランニングマン研究所](runningman.md)
   - 2019/04/19 [主なタスク管理手法](task_mamagement_methods.md)
   - 2019/04/17 [Hack をひたすらまとめる試み](hacks.md)
