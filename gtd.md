@@ -151,7 +151,7 @@ Work 5 List:
 
 - Inbox
 - Someday
-- Calender
+- Calendar
 - Waiting
 - Document
 
@@ -176,7 +176,7 @@ Helper 2 List:
 | Document          | △ | 100L  | -        | Step2 |
 | Someday           | △ | 1000L | -        | Step2 |
 | Waiting           | △ | 10L   | -        | Step4 |
-| Calender          | △ | 10L   | -        | Step4 |
+| Calendar          | △ | 10L   | -        | Step4 |
 | Context           | △ | 10L   | -        | -     |
 | Trigger           | △ | 10L   | -        | -     |
 
@@ -236,7 +236,7 @@ Nextaction は 5-Step でいえば Step.5 の Do に相当する。詳しくは�
 現実的な運用:
 
 - Nextaction は単なる TODO リスト or シンプルなタスク管理ツール
-- Nextaction を見る時は、適宜他のリスト(Propject, Calender, Waiting など)も見返す
+- Nextaction を見る時は、適宜他のリスト(Propject, Calendar, Waiting など)も見返す
 
 ### 粒度
 Nextaction に書く「次にやること」の粒度は、非常に細かいことが望ましい。極論を言えば「今日の自分が見ても、一年後の自分が見ても、何をすればいいかが即座に一意に決まる」レベルである。
@@ -291,7 +291,7 @@ Project は WANT でも SHOULD でも MUST でも良い。
 - Project の並び順を重要度順とみなし、上から順に処理することを心がける
 - Project の記入領域を「今週必ず」「今月くらい」「余力があればやりたい」に分ける
 
-また、WANT については、MUST や SHOULD で慌ただしいとしばしば後回しにしてしまいがちなので、ファーストタスクとして毎日少しずつ処理したり、Calender に予定として入れてしまったりなど工夫する。
+また、WANT については、MUST や SHOULD で慌ただしいとしばしば後回しにしてしまいがちなので、ファーストタスクとして毎日少しずつ処理したり、Calendar に予定として入れてしまったりなど工夫する。
 
 ### ★他に観点ある？
 
@@ -431,7 +431,7 @@ pGTD - Plaintext GTD とはプレインテキストとテキストエディタ�
 - Document
 - Someday
 - Waiting
-- Calender
+- Calendar
 - Context
 - Trigger
 
@@ -449,7 +449,7 @@ Tutorial Flow
   - Learn about GTD
   - Learn about tools
     - Task management tool
-    - Calender/Scheduler
+    - Calendar/Scheduler
     - Reminder
     - Memo apps
     - Textfile/Texteditor
