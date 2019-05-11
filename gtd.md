@@ -166,19 +166,19 @@ Helper 2 List:
 
 | List              | List Complexity | List Volume | Review Freq |
 | ----------------- | --------------- | ----------- | ----------- |
-| 5000m Philosophy  | ○ | 1L    | per 360d | 
-| 4000m Ideal       | ○ | 1L    | per 360d | 
-| 3000m Milestone   | ○ | 1L    | per 120d | 
-| 2000m Restriction | ○ | 1L    | A/N      | 
-| 1000m Project     | △ | 10L   | per 7d   | 
-| 0000m Nextaction  | × | 100L  | Everyday | 
-| Inbox             | ○ | 100L  | -        | 
-| Document          | △ | 100L  | -        | 
-| Someday           | △ | 1000L | -        | 
-| Waiting           | △ | 10L   | -        | 
-| Calendar          | △ | 10L   | -        | 
-| Context           | △ | 10L   | -        | 
-| Trigger           | △ | 10L   | -        | 
+| 5000m Philosophy  | ○ | 1L    | Per 360d  | 
+| 4000m Ideal       | ○ | 1L    | Per 360d  | 
+| 3000m Milestone   | ○ | 1L    | Per 120d  | 
+| 2000m Restriction | ○ | 1L    | As Needed | 
+| 1000m Project     | △ | 10L   | Per 7d    | 
+| 0000m Nextaction  | × | 100L  | Everyday  | 
+| Inbox             | ○ | 100L  | -         | 
+| Document          | △ | 100L  | -         | 
+| Someday           | △ | 1000L | -         | 
+| Waiting           | △ | 10L   | -         | 
+| Calendar          | △ | 10L   | -         | 
+| Context           | △ | 10L   | -         | 
+| Trigger           | △ | 10L   | -         | 
 
 カラムについて
 
