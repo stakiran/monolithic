@@ -166,19 +166,19 @@ Helper 2 List:
 
 | List              | List Complexity | List Volume | Review Freq | Granularity |
 | ----------------- | --------------- | ----------- | ----------- | ----------- |
-| 5000m Philosophy  | ○              | 1L          | Per 360d    | Coarse |
-| 4000m Ideal       | ○              | 1L          | Per 360d    | Fine |
+| 5000m Philosophy  | ○              | 1L          | As Needed   | Coarse |
+| 4000m Ideal       | ○              | 1L          | As Needed   | Fine |
 | 3000m Milestone   | ○              | 1L          | Per 120d    | Fine |
 | 2000m Restriction | ○              | 1L          | As Needed   | Coarse |
 | 1000m Project     | △              | 10L         | Per 7d      | Fine |
-| 0000m Nextaction  | ×              | 100L        | Everyday    | Fine |
-| Inbox             | ○              | 100L        | -           | Coarse |
-| Document          | △              | 100L        | -           | Coarse |
-| Someday           | △              | 1000L       | -           | Coarse |
-| Waiting           | △              | 10L         | -           | Coarse |
-| Calendar          | △              | 10L         | -           | Coarse |
-| Context           | △              | 10L         | -           | Coarse |
-| Trigger           | △              | 10L         | -           | Fine |
+| 0000m Nextaction  | ×              | 100L        | Per 1d      | Fine |
+| Inbox             | ○              | 100L        | Per 1-7d    | Coarse |
+| Document          | △              | 100L        | As Needed   | Coarse |
+| Someday           | △              | 1000L       | As Needed   | Coarse |
+| Waiting           | △              | 10L         | Per 1-3d    | Coarse |
+| Calendar          | △              | 10L         | Per 1-3d    | Coarse |
+| Context           | △              | 10L         | As Needed   | Coarse |
+| Trigger           | △              | 10L         | As Needed   | Fine |
 
 カラムについて
 
