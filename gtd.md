@@ -164,21 +164,21 @@ Helper 2 List:
 
 ## Summary
 
-| List              | List Complexity | List Volume | Review Freq | Filter Step |
-| ----------------- | --------------- | ----------- | ----------- | ----------- |
-| 5000m Philosophy  | ○ | 1L    | per 360d | -     |
-| 4000m Ideal       | ○ | 1L    | per 360d | -     |
-| 3000m Milestone   | ○ | 1L    | per 120d | -     |
-| 2000m Restriction | ○ | 1L    | A/N      | -     |
-| 1000m Project     | △ | 10L   | per 7d   | Step3 |
-| 0000m Nextaction  | × | 100L  | Everyday | Step5 |
-| Inbox             | ○ | 100L  | -        | Step1 |
-| Document          | △ | 100L  | -        | Step2 |
-| Someday           | △ | 1000L | -        | Step2 |
-| Waiting           | △ | 10L   | -        | Step4 |
-| Calendar          | △ | 10L   | -        | Step4 |
-| Context           | △ | 10L   | -        | -     |
-| Trigger           | △ | 10L   | -        | -     |
+| List              | List Complexity | List Volume | Review Freq |
+| ----------------- | --------------- | ----------- | ----------- |
+| 5000m Philosophy  | ○ | 1L    | per 360d | 
+| 4000m Ideal       | ○ | 1L    | per 360d | 
+| 3000m Milestone   | ○ | 1L    | per 120d | 
+| 2000m Restriction | ○ | 1L    | A/N      | 
+| 1000m Project     | △ | 10L   | per 7d   | 
+| 0000m Nextaction  | × | 100L  | Everyday | 
+| Inbox             | ○ | 100L  | -        | 
+| Document          | △ | 100L  | -        | 
+| Someday           | △ | 1000L | -        | 
+| Waiting           | △ | 10L   | -        | 
+| Calendar          | △ | 10L   | -        | 
+| Context           | △ | 10L   | -        | 
+| Trigger           | △ | 10L   | -        | 
 
 カラムについて
 
@@ -204,9 +204,9 @@ Helper 2 List:
 ## Nextaction
 Nextaction は「次に取るべき行動」を記したリスト。
 
-| List              | List Complexity | List Volume | Review Freq | Filter Step |
-| ----------------- | --------------- | ----------- | ----------- | ----------- |
-| 0000m Nextaction  | × | 100L  | Everyday | Step5 |
+| List              | List Complexity | List Volume | Review Freq |
+| ----------------- | --------------- | ----------- | ----------- |
+| 0000m Nextaction  | × | 100L  | Everyday |
 
 Nextaction は GTD において最も複雑なリストになる。
 
@@ -216,8 +216,6 @@ Nextaction のレビュー頻度は毎日である。実施タイミングは以
 
 - 一日の最初に「今日の」次にやることリストをメンテする
 - 一日の終わりに「明日の」次にやることリストをメンテする
-
-Nextaction は 5-Step でいえば Step.5 の Do に相当する。詳しくは後述するが、ユーザーは日々 Nextaction に従うことで日常生活をまわしていく。
 
 ### 理想の運用と現実的な運用
 ユーザーは常に Nextaction の中から「次にやること」を選ぶのが望ましい。つまり「Nextaction に従っているだけで日常生活がまわる」上体が理想である。もっとも、これを実現することは容易ではなく、単なる TODO リストでは到底実現できない。高級なタスク管理ツールに頼ることになる。
@@ -257,9 +255,9 @@ Nextaction  は WANT でも SHOULD でも MUST でも良い。
 ## Project
 Project は「達成に複数のアクションを要するが、一年以内に完了したいもの」を記したリスト。
 
-| List              | List Complexity | List Volume | Review Freq | Filter Step |
-| ----------------- | --------------- | ----------- | ----------- | ----------- |
-| 1000m Project     | △ | 10L   | per 7d   | Step3 |
+| List              | List Complexity | List Volume | Review Freq |
+| ----------------- | --------------- | ----------- | ----------- |
+| 1000m Project     | △ | 10L   | per 7d   |
 
 Project リストの複雑さはまずまずである。書式は最悪ただの箇条書きでも良いが、見易さやわかりやすさのためにパラメーター(締切日、コンテキスト、優先度)を付与することが多い。
 
@@ -274,8 +272,6 @@ Project リストのレビュー頻度は週に一度である。実施内容と
 - メンテ …… 各 Project をメンテする(完了したものは削除、着手できてないもの Someday に移すか文言を修正)
 - 細分化 …… 各 Project の達成に必要な行動を Nextaction に記載する
 - 補充 …… 他のリストを読み返しながら、他に必要な Project があれば補充する
-
-★filterstep要らんわ。どこで生成されるかを書いたものだが、複数ステップがあるし、inboxに至っては気になることは随時つっこむんだから全ステップで生成される
 
 ### 粒度
 Project の粒度は細かすぎなければ何でも良い。
