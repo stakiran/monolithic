@@ -21,7 +21,6 @@ title: Monolithic
   - 2019/05/03 [ランニングマン研究所](runningman.md)
   - 2019/04/19 [主なタスク管理手法](task_mamagement_methods.md)
   - 2019/04/17 [Hack をひたすらまとめる試み](hacks.md)
-  - 2019/04/12 [大企業の働き方改革案](my_hatarakikata_kaikaku_of_daikigyo.md)
 - Archive(いったん完成 or いったん頓挫)
   - 2019/05/13 2019/05/08 [吉良野式支出管理](staspecon.md)
   - 2019/05/03 2019/04/03 [Teeting(テキストチャットのみで会議する)](teeting.md)
