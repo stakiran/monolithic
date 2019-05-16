@@ -969,10 +969,12 @@ Philosophy の粒度は粗い。
 
 というより Philosophy が価値観、哲学、指針といった概念を指す関係上、どうしても粗くなる。もし粒度が細かい場合、それは Philosophy ではなく Philosophy を構成する一要素(行動やルールの一つなど)になってしまっている可能性がある。Philosophy リストには要素一つを書くのではなく、要素を包含した、根っこの Philosophy を書く。
 
-### [運用] WANT よりも REAL
-Philosophy リストには「こうなりたい(WANT)」と考える Philosophy ではなく、「自分はこうなっている(REAL)」という Philosophy を書くべきである。というのも、Philosophy はなりたいから手に入るものではなく、長い人生において既に強固に培われているものだからである。
+### [運用] REAL Philosophy
+Philosophy リストには「こうなりたい(WANT)」「こうあるべき(SHOULD)」と考える Philosophy ではなく、「自分はこうなっている(REAL)」という Philosophy を書くべきである。というのも、Philosophy はなりたいから(あるいはなるべきだから)手に入るものではなく、長い人生において既に強固に培われているもの(あるいは培われたそれらの延長線上にあるもの)だからである。
 
-★たとえば利己的で自己中心的な人間が「利他的でありたい」という Philosophy を掲げても、利他的にはなれないだろう。それよりも、利己的で自己中心的な自分はどんな Philosophy を持っているか、
+このような立場を REAL Philosophy という。
+
+★でも REAL Philosophy では限界がある。新たな Philosophy も必要 ← この立場も説明欲しい。
 
 ## 4000m Ideal
 xxx は xxx を記したリスト。
