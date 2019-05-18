@@ -18,6 +18,7 @@ title: Monolithic
   - 2019/02/23 [Flatism(フラティズム)](flatism.md)
   - 2019/02/23 [Soloism(ソリズム)](soloism.md)
 - Baby(新規したばかり)
+  - 2019/05/18 [ライフハックチップス](lifehack_tips.md)
 - Archive(いったん完成 or いったん頓挫)
   - 2019/05/15 2019/04/19 [主なタスク管理手法](task_management_methods.md)
   - 2019/05/15 2019/05/03 [ランニングマン研究所](runningman.md)
