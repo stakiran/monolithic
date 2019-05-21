@@ -8,7 +8,6 @@ title: Monolithic
 
 ## コンテンツ
 - Active(重点的に更新)
-  - 2019/04/17 [GTD](gtd.md)
 - Children(方向性は固まった)
   - 2019/02/23 [タスク管理概論](task_management.md)
   - 2019/03/08 [タスク管理支援概論](task_management_support.md)
@@ -18,8 +17,10 @@ title: Monolithic
   - 2019/02/23 [Flatism(フラティズム)](flatism.md)
   - 2019/02/23 [Soloism(ソリズム)](soloism.md)
 - Baby(新規したばかり)
+  - 2019/05/21 [tGTD](tgtd.md)
   - 2019/05/18 [ライフハックチップス](lifehack_tips.md)
 - Archive(いったん完成 or いったん頓挫)
+  - 2019/05/21 2019/04/17 [GTD](gtd.md)
   - 2019/05/15 2019/04/19 [主なタスク管理手法](task_management_methods.md)
   - 2019/05/15 2019/05/03 [ランニングマン研究所](runningman.md)
   - 2019/05/15 2019/04/17 [Hack をひたすらまとめる試み](hacks.md)
