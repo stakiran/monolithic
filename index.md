@@ -16,7 +16,6 @@ title: Monolithic
   - 2019/02/23 [Flatism(フラティズム)](flatism.md)
   - 2019/02/23 [Soloism(ソリズム)](soloism.md)
 - Baby(新規したばかり)
-  - 2019/05/22 [RPG作り隊](rpg.md)
   - 2019/05/21 [tGTD](tgtd.md)
   - 2019/05/18 [ライフハックチップス](lifehack_tips.md)
 - Archive(o=いったん完成 x=いったん頓挫)
