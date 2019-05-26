@@ -13,10 +13,10 @@ title: Monolithic
   - 2019/03/01 [Life Programming(ライフプログラミング)](life_programming.md)
   - 2019/04/14 [趣味学](hobbilogy.md)
   - 2019/02/23 [Flatism(フラティズム)](flatism.md)
-  - 2019/02/23 [Soloism(ソリズム)](soloism.md)
 - Baby(新規したばかり)
   - 2019/05/21 [tGTD](tgtd.md)
 - Archive(o=いったん完成 x=いったん頓挫)
+  - 2019/05/26 2019/02/23 o [Soloism(ソリズム)](soloism.md)
   - 2019/05/26 2019/05/18 x [ライフハックチップス](lifehack_tips.md)
   - 2019/05/23 2019/03/16 x [効率論](efficy.md)
   - 2019/05/21 2019/04/17 o [GTD](gtd.md)
@@ -26,8 +26,7 @@ title: Monolithic
   - 2019/05/13 2019/05/08 o [吉良野式支出管理](staspecon.md)
   - 2019/05/03 2019/04/03 x [Teeting(テキストチャットのみで会議する)](teeting.md)
   - 2019/05/03 2019/04/15 x [Windows PC の効率化](efficy_windows.md)
-- Test
-  - 2019/04/14 [GitHub Pages Jekyll まわりの試行とか](test_githuboages_jekyll.md)
+  - xxxx/xx/xx 2019/04/14 o (テスト用) [GitHub Pages Jekyll まわりの試行とか](test_githuboages_jekyll.md)
 
 ## 筆者について
 - 著者: stakiran
