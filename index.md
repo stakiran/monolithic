@@ -7,8 +7,7 @@ title: Monolithic
 このウェブサイトでは [stakiran](https://stakiran.github.io/stakiran/) が書いた文書をまとめている。各文書は一つのテーマを一つのページ(Monolithic/一枚岩で)でまとめている。いずれも不定期更新。
 
 ## コンテンツ
-- Active(重点的に更新)
-- Children(方向性は固まった)
+- Children(方向性が定まった)
   - 2019/02/23 [タスク管理概論](task_management.md)
   - 2019/03/08 [タスク管理支援概論](task_management_support.md)
   - 2019/03/01 [Life Programming(ライフプログラミング)](life_programming.md)
@@ -18,7 +17,7 @@ title: Monolithic
 - Baby(新規したばかり)
   - 2019/05/21 [tGTD](tgtd.md)
 - Archive(o=いったん完成 x=いったん頓挫)
-  - 2019/05/26 2019/05/18 [ライフハックチップス](lifehack_tips.md)
+  - 2019/05/26 2019/05/18 x [ライフハックチップス](lifehack_tips.md)
   - 2019/05/23 2019/03/16 x [効率論](efficy.md)
   - 2019/05/21 2019/04/17 o [GTD](gtd.md)
   - 2019/05/15 2019/04/19 x [主なタスク管理手法](task_management_methods.md)
