@@ -6,6 +6,8 @@ title: Monolithic
 # Monolithic
 このウェブサイトでは [stakiran](https://stakiran.github.io/stakiran/) が書いた文書をまとめている。各文書は一つのテーマを一つのページ(Monolithic/一枚岩で)でまとめている。いずれも不定期更新。
 
+なお内容は全体的に主観的である(あくまでも筆者が持論をまとめたいのが第一欲求)ことに注意。参考情報も載せているが、筆者による造語や独自概念も多い。
+
 ## コンテンツ
 - Children(方向性が定まった)
   - 2019/02/23 [タスク管理概論](task_management.md)
