@@ -15,6 +15,7 @@ title: Monolithic
   - 2019/03/01 [Life Programming(ライフプログラミング)](life_programming.md)
   - 2019/04/14 [趣味学](hobbilogy.md)
 - Baby(新規したばかり)
+  - 2019/05/27 [Love2Diary](diary.md)
   - 2019/05/21 [tGTD](tgtd.md)
 - Archive(o=いったん完成 x=いったん頓挫)
   - 2019/05/26 2019/02/23 x [Flatism(フラティズム)](flatism.md)
