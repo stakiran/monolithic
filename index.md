@@ -9,12 +9,13 @@ title: Monolithic
 なお内容は全体的に主観的である(あくまでも筆者が持論をまとめたいのが第一欲求)ことに注意。参考情報も載せているが、筆者による造語や独自概念も多い。
 
 ## コンテンツ
-- Children(方向性が定まった)
+- Progress(方向性が定まった)
   - 2019/02/23 [タスク管理概論](task_management.md)
   - 2019/03/08 [タスク管理支援概論](task_management_support.md)
   - 2019/03/01 [Life Programming(ライフプログラミング)](life_programming.md)
   - 2019/04/14 [趣味学](hobbilogy.md)
 - Baby(新規したばかり)
+  - ...
 - Archive(o=いったん完成 x=いったん頓挫)
   - 2019/05/30 2019/05/27 x [Love2Diary](diary.md)
   - 2019/05/28 2019/05/21 x [tGTD](tgtd.md)
@@ -29,7 +30,7 @@ title: Monolithic
   - 2019/05/13 2019/05/08 o [吉良野式支出管理](staspecon.md)
   - 2019/05/03 2019/04/03 x [Teeting(テキストチャットのみで会議する)](teeting.md)
   - 2019/05/03 2019/04/15 x [Windows PC の効率化](efficy_windows.md)
-  - xxxx/xx/xx 2019/04/14 o (テスト用) [GitHub Pages Jekyll まわりの試行とか](test_githuboages_jekyll.md)
+  - 2019/05/03 2019/04/14 o (テスト用) [GitHub Pages Jekyll まわりの試行とか](test_githuboages_jekyll.md)
 
 ## 筆者について
 - 著者: stakiran
