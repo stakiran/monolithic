@@ -1547,3 +1547,7 @@ A タスクには以下種類がある。
   - x [タスク管理メソッド todo.txt が面白そう - Qiita](http://qiita.com/sta/items/0f72c9c956cf05df8141)
 - todo.md
   - [Hypercubed/todo-md: Manage your GitHub Flavored Markdown todo list from the command line](https://github.com/Hypercubed/todo-md)
+
+# 更新履歴
+- 2019/05/30 v1.0.0
+  - 初版
