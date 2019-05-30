@@ -9,12 +9,10 @@ title: Monolithic
 なお内容は全体的に主観的である(あくまでも筆者が持論をまとめたいのが第一欲求)ことに注意。参考情報も載せているが、筆者による造語や独自概念も多い。
 
 ## コンテンツ
-- Progress(方向性が定まった)
-  - 2019/03/08 [タスク管理支援概論](task_management_support.md)
+- Progress
   - 2019/04/14 [趣味学](hobbilogy.md)
-- Baby(新規したばかり)
-  - ...
 - Archive(o=いったん完成 x=いったん頓挫)
+  - 2019/05/30 2019/03/08 o [タスク管理支援概論](task_management_support.md)
   - 2019/05/30 2019/03/01 o [Life Programming(ライフプログラミング)](life_programming.md)
   - 2019/05/30 2019/02/23 o [タスク管理概論](task_management.md)
   - 2019/05/30 2019/05/27 x [Love2Diary](diary.md)
