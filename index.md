@@ -11,11 +11,11 @@ title: Monolithic
 ## コンテンツ
 - Progress(方向性が定まった)
   - 2019/03/08 [タスク管理支援概論](task_management_support.md)
-  - 2019/03/01 [Life Programming(ライフプログラミング)](life_programming.md)
   - 2019/04/14 [趣味学](hobbilogy.md)
 - Baby(新規したばかり)
   - ...
 - Archive(o=いったん完成 x=いったん頓挫)
+  - 2019/05/30 2019/03/01 o [Life Programming(ライフプログラミング)](life_programming.md)
   - 2019/05/30 2019/02/23 o [タスク管理概論](task_management.md)
   - 2019/05/30 2019/05/27 x [Love2Diary](diary.md)
   - 2019/05/28 2019/05/21 x [tGTD](tgtd.md)
