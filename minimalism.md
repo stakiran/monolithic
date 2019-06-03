@@ -149,12 +149,12 @@ title: ミニマリズム
 | ------ | ------ | ------ | ------ | ------ | ---- |
 |      n |      - |      - |      - |      - | ミニマリストでない |
 |      - |      n |      - |      - |      - | ミニマリストでない |
-|      Y |      Y |      n |      n |      n | 自称、一時的、マネージャー |
-|      Y |      Y |      Y |      n |      n | 一時的、マネージャー |
+|      Y |      Y |      n |      n |      n | 自称、ユーザー、マネージャー |
+|      Y |      Y |      Y |      n |      n | ユーザー、マネージャー |
 |      Y |      Y |      n |      Y |      n | 自称、マネージャー |
 |      Y |      Y |      Y |      Y |      n | マネージャー |
-|      Y |      Y |      n |      n |      Y | 自称、一時的 |
-|      Y |      Y |      Y |      n |      Y | 一時的 |
+|      Y |      Y |      n |      n |      Y | 自称、ユーザー |
+|      Y |      Y |      Y |      n |      Y | ユーザー |
 |      Y |      Y |      n |      Y |      Y | 自称 |
 |      Y |      Y |      Y |      Y |      Y | ミニマリスト |
 
@@ -162,6 +162,11 @@ title: ミニマリズム
 ユーザー(User)とはミニマリズムを単なる手段と捉えるミニマリスト。脱常識を満たす。
 
 - 例: 取捨選択の手間を軽減するためのライフハック
+
+### マネージャー
+マネージャー(Manager)とはマネジメントミニマリストのこと。
+
+### ★あと客観的ミニマムでないミニマリストを一言で表す言葉が欲しいっ！
 
 ### ★ダメかも ひらめかん
 ・一時的なミニマリスト 自立的生活がないケース
@@ -223,4 +228,4 @@ not: 何を持つかではなく何を持たないか、何をやるかではな
   - そういった面倒くさいもの、そいつら全てを「カネの力で」「外部委託する」ことこそが「ミニマリズム」の本質
 - [Minimalism (disambiguation) - Wikipedia](https://en.wikipedia.org/wiki/Minimalism_(disambiguation))
 - [Simple living - Wikipedia](https://en.wikipedia.org/wiki/Simple_living)
--[minimizeの意味・使い方｜英辞郎 on the WEB：アルク](https://eow.alc.co.jp/search?q=minimize)
+- [minimizeの意味・使い方｜英辞郎 on the WEB：アルク](https://eow.alc.co.jp/search?q=minimize)
