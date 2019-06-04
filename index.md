@@ -10,6 +10,7 @@ title: Monolithic
 
 ## コンテンツ
 - Progress
+  - 2019/06/04 [タスク管理スタンス](task_management_stance.md)
   - 2019/06/01 [ミニマリズム](minimalism.md)
   - 2019/04/14 [趣味学](hobbilogy.md)
 - Archive(o=いったん完成 x=いったん頓挫)
