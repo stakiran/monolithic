@@ -1391,7 +1391,7 @@ A タスクには以下種類がある。
 
 - メモとしてのタスク(Task As As Note/TAAn)
   - タスクをメモ欄として使う
-  - 後述の taaM があるため Memo ではなく Note を用いる
+  - 後述の TAAm があるため Memo ではなく Note を用いる
 - ログとしてのタスク(Task As As Log/TAAl)
   - タスクをライフログ(自身に関する生活データ。日記含む)として使う
   - ルーチンタスクの機能を使えば定期的な記録も取りやすい
@@ -1549,5 +1549,7 @@ A タスクには以下種類がある。
   - [Hypercubed/todo-md: Manage your GitHub Flavored Markdown todo list from the command line](https://github.com/Hypercubed/todo-md)
 
 # 更新履歴
+- 2019/06/06 v1.0.1
+  - modify 後述の taaM があるため → 後述の TAAm があるため
 - 2019/05/30 v1.0.0
   - 初版
