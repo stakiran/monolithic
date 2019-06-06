@@ -64,7 +64,7 @@ title: タスク管理スタンス
 
 例:
 
-- [ミニマリズム](#minimalism.md) 
+- [ミニマリズム](minimalism.md) 
 
 # ●misc
 [タスク管理における「過去志向」と「未来志向」（のきばトーク第49回） - ForGetting Things Done](http://hochebirne.hatenablog.com/entry/2017/07/05/053000) 過去と未来 小鳥遊さん理解では過去が過去ベースで現実的に算定すること、未来が自己成長を踏まえて算定する（過去よりも短く終える）こと。
