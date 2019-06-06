@@ -67,7 +67,7 @@ title: タスク管理スタンス
 - [ミニマリズム](#minimalism.md) 
 
 # ●misc
-まずはブレストだろうか
-
 [タスク管理における「過去志向」と「未来志向」（のきばトーク第49回） - ForGetting Things Done](http://hochebirne.hatenablog.com/entry/2017/07/05/053000) 過去と未来 小鳥遊さん理解では過去が過去ベースで現実的に算定すること、未来が自己成長を踏まえて算定する（過去よりも短く終える）こと。
 
+## ネタ探し:
+- [「タスク管理のScrapbox」のインボックス - タスク管理のScrapbox](https://scrapbox.io/taskmanagement/%E3%80%8C%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86%E3%81%AEScrapbox%E3%80%8D%E3%81%AE%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9)
