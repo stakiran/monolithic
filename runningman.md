@@ -366,29 +366,15 @@ title: ランニングマン研究所
 
 持続時間は最低でも 4 以上である必要がある。4 に至らないほど短い間しか繰り出せないランニングマンは、習得しているとは言えない。この定義はまぐれによる成功を防ぐために設けられているものである。
 
-## 例
-2019/05/03 現時点での筆者のスペックをいくつか記す。
-
-- 200/0/1:1/4b
-  - The wheel to the right / Sampling Masters MEGA
-  - 超瞬発的、かろうじて引き幅をプラスに持っていける程度
-- 179/f/1:1/8b
-  - SigSig / kors k
-  - 瞬発的、何とかダンスラでノーツ取りながら動ける
-- 120/ff/1:1/30b
-  - ウミユリ海底譚 / n-buna
-  - 引き幅一足で BPM 120 で 2 分持続
-- 106/ffff/1:2/8b
-  - †渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) / kors k
-  - まあまあ瞬発的、BPM は遅いが引き幅 2.0 だと苦しい
-
 # 参考情報
-★本が無いからネットメイン。動画やTwitterも。
 
 ## Web
 - [DANCERUSH STARDOM - BEMANIWiki 2nd](http://bemaniwiki.com/index.php?DANCERUSH%20STARDOM)
 - [DANCERUSH STARDOM(ダンスラ)で有酸素運動をする](https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/11/21/120300)
 - [音ゲーで運動もしたい人は DANCERUSH STARDOM(ダンスラ)すればいいかもという話](https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/11/29/071100)
+
+## Twitter
+- [Hboy@えいちぼ〜いさんのツイート: &quot;注意 【バックランニングマン】 という技が出始めましたが この技は 【リバースランニングマン】 という技です 誤情報が広まる前に....&quot;](https://twitter.com/hboy_shuffle/status/1028523981995835392)
 
 # 更新履歴
 一通り充実させるまではバージョンは付けない。当面は主な節目を端的に記録するに留める。
