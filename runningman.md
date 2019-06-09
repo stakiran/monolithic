@@ -317,6 +317,8 @@ title: ランニングマン研究所
 ランスペとはランニングマンスペック(your Runningman Specification)の略であり、ランニングマンの性質を端的に記す指標。
 
 ★上げ幅と踏み角度も取り入れたい
+★強引にショート表記つくるの無理そうなので廃止する
+★小節の定義変えたので反映する
 
 ## 書き方
 
@@ -366,11 +368,8 @@ title: ランニングマン研究所
   - †渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) / kors k
   - まあまあ瞬発的、BPM は遅いが引き幅 2.0 だと苦しい
 
-## 主な傾向
-★MAS は 3:1 くらい極端になるとか色々まとめたい
-
-
 # 参考情報
+★本が無いからネットメイン。動画やTwitterも。
 
 ## Web
 - [DANCERUSH STARDOM - BEMANIWiki 2nd](http://bemaniwiki.com/index.php?DANCERUSH%20STARDOM)
