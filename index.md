@@ -10,6 +10,7 @@ title: Monolithic
 
 ## コンテンツ
 - Progress
+  - 2019/06/09 [ランニングマン研究所](runningman.md)
   - 2019/06/04 [タスク管理スタンス](task_management_stance.md)
   - 2019/06/01 [ミニマリズム](minimalism.md)
   - 2019/04/14 [趣味学](hobbilogy.md)
@@ -25,7 +26,6 @@ title: Monolithic
   - 2019/05/23 2019/03/16 x [効率論](efficy.md)
   - 2019/05/21 2019/04/17 o [GTD](gtd.md)
   - 2019/05/15 2019/04/19 x [主なタスク管理手法](task_management_methods.md)
-  - 2019/05/15 2019/05/03 x [ランニングマン研究所](runningman.md)
   - 2019/05/15 2019/04/17 x [Hack をひたすらまとめる試み](hacks.md)
   - 2019/05/13 2019/05/08 o [吉良野式支出管理](staspecon.md)
   - 2019/05/03 2019/04/03 x [Teeting(テキストチャットのみで会議する)](teeting.md)
