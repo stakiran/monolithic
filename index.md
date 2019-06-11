@@ -10,6 +10,7 @@ title: Monolithic
 
 ## コンテンツ
 - Progress
+  - 2019/06/12 [7つの習慣](7habits.md)
   - 2019/06/09 [ランニングマン研究所](runningman.md)
   - 2019/06/04 [タスク管理スタンス](task_management_stance.md)
   - 2019/06/01 [ミニマリズム](minimalism.md)
