@@ -426,5 +426,5 @@ title: ミニマリズム
 - [Minimalism (disambiguation) - Wikipedia](https://en.wikipedia.org/wiki/Minimalism_(disambiguation))
 - [Simple living - Wikipedia](https://en.wikipedia.org/wiki/Simple_living)
 - [minimizeの意味・使い方｜英辞郎 on the WEB：アルク](https://eow.alc.co.jp/search?q=minimize)
-- [第25回 ミニマリズム | 続 10分でわかるカタカナ語（もり・ひろし ＆ 三省堂編修所） | 三省堂 ことばのコラム](https://dictionary.sanseido-publ.co.jp/column/%E7%AC%AC25%E5%9B%9E-%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AA%E3%82%BA%E3%83%A0)
+- [第25回 ミニマリズム - 続 10分でわかるカタカナ語（もり・ひろし ＆ 三省堂編修所） - 三省堂 ことばのコラム](https://dictionary.sanseido-publ.co.jp/column/%E7%AC%AC25%E5%9B%9E-%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AA%E3%82%BA%E3%83%A0)
   - 表現手法としてのミニマリズム
