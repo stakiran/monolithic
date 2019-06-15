@@ -121,10 +121,10 @@ title: ランニングマン研究所
 引き角度が 0～90、270～360 のランニングマンはリバースランニングマン(Reverse Runningman)と呼ぶ。
 
 ## バックランニングマン
-バックランニングマン(Back Runningman)とはランニングマンしながら後方に下がること。単にバックともいう。
+バックランニングマン(Back Runningman)とはランニングマンしながら後方に下がること。
 
 ## フロントランニングマン
-フロントランニングマン(Front Runningman)とは、ランニングマンしながら前進すること。単にフロントともいう。
+フロントランニングマン(Front Runningman)とは、ランニングマンしながら前進すること。
 
 # ランニングマンの楽しみ方
 本章ではランニングマンを楽しむためのヒントやアプローチを雑多に述べる。ただしダンスラが絡むものは次の章にまとめた。
@@ -255,6 +255,7 @@ title: ランニングマン研究所
 - Shiva ふつう
   - 切り返し地帯、癖でランニングマンが崩れる
   - 体力保たない、せいぜい一日一回挑めるかどうか
+  - 2019/06/16 [94% 後半のライン]
   - 2019/05/06 [精度も怪しい、現在 93% のライン](https://www.youtube.com/watch?v=oV7NexYaHss)
 - The Light ふつう
   - 2019/06/02 [開幕 8 小節を除けばギリで達成できた](https://www.youtube.com/watch?v=_cMUO6bfG10)
@@ -265,10 +266,12 @@ title: ランニングマン研究所
 曲中絶えずランニングマンを行い、パネル上を何回往復できるかを競う。ただしスコアは 90% 以上でなくてはならない ★微妙。純粋シャトルランニングマンをシャトルランニングマンにした方がいいかも。
 
 ## 純粋シャトルランニングマン
-スコア基準を設けず、譜面無視前提でただただ往復の回数を競うことに特化したシャトルランニングマン。
+純粋シャトルランニングマン(Pure Shattle Running-Man / PSRM)とはスコア基準を設けず、譜面無視前提でただただ往復の回数を競うことに特化したシャトルランニングマン。
 
 例:
 
+- [DAWN OF FALCON(BPM=155) 純粋シャトルランニングマン 20回 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=W86YvWtNQRE)
+- [Butterfly(BPM=135) PSRM 33回 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=fLJSjMQFjz4)
 - [Hastur(BPM=118) 純粋シャトルランニングマン 38回 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=ze8EBJVHNiA)
 - [Love 2 Shuffle(BPM=133) 純粋シャトルランニングマン 41回 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=kYIdygOATPk)
 
