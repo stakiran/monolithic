@@ -10,6 +10,7 @@ title: Monolithic
 
 ## コンテンツ
 - Progress
+  - 2019/06/17 [もしも私が情報の教員だったら](if_i_am_an_ict_teacher.md)
   - 2019/06/12 [メモ管理概論](memo_management.md)
   - 2019/06/12 [7つの習慣](7habits.md)
   - 2019/06/09 [ランニングマン研究所](runningman.md)
