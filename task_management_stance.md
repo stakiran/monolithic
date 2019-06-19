@@ -295,3 +295,8 @@ TaskChute2 を例にするなら、TaskChute2 を使いながらも独自の使�
 - [【タスク管理】 カテゴリーの記事一覧 - 佐々木正悟のライフハック心理学](http://nokiba.hatenablog.jp/archive/category/%E3%80%90%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86%E3%80%91)
 - [「タスク管理のScrapbox」のインボックス - タスク管理のScrapbox](https://scrapbox.io/taskmanagement/%E3%80%8C%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86%E3%81%AEScrapbox%E3%80%8D%E3%81%AE%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9)
 - [シゴタノ！仕事を楽しくする研究日誌](https://cyblog.jp/)
+
+# 更新履歴
+- 2019/06/19 v1.0.0
+  - 初版
+  - 所感：思いついたネタや目についたネタをある程度洗い出したので満足、いったんリリース
