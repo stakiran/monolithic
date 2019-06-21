@@ -270,6 +270,18 @@ TTP 構造を採用したメモアプリの例:
 - 内部パラメータ
   - update sequence num(更新された時にインクリメントされる、表示順制御に使うらしい)
 
+## OneNote
+[ノートブックリソースの種類 - Microsoft Graph v1.0 - Microsoft Docs](https://docs.microsoft.com/ja-jp/graph/api/resources/notebook?view=graph-rest-1.0)
+
+[OneNote REST API を使用する](https://docs.microsoft.com/ja-jp/graph/api/resources/onenote-api-overview?view=graph-rest-1.0) にある図から引用する。
+
+- notebook
+- sectiongroup
+- section
+- page
+- page content
+- resource
+
 # ●misc
 リッチテキストとプレインテキスト。リッチでは単一ツールでリッチに。プレインでは軽さと管理市やすさと連携を。
 
@@ -289,7 +301,7 @@ TTP 構造を採用したメモアプリの例:
 
 メモ管理アプリが扱ってるメモというエンティティの設計を見ようか。タスク管理概説でもいろんなツール見たし。でもメモアプリって、タスク管理みたいに「タスク」という単位で扱うって感じじゃない。どちらかと言えばページを用意して自由に書けよタイプ。
 
-メモ。ノート。テキスト。スニペット。
+メモ。ノート。テキスト。スニペット。ノートとスニペットはアプリにおける名称として使われやすい、形式的に意味が定まってるイメージ。メモは多様な意味を持つ単語（でも日本語圏のアプリでは名称としても使われることがあるイメージ）。テキストはメモを構成する文字列の一部。
 
 ```
   ・書く、読み返す
