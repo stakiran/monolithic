@@ -195,6 +195,81 @@ TTP 構造を採用したメモアプリの例:
 
 (4) 共有的で永続的なメモは「資料」という。この手のメモは、複数人が複数回読み返すことになるため、もはやメモの域を超えて資料である。(1) ～ (3) と比べると記録やメンテナンスに要する負担も大きくなりがちだが、たいていは必要以上に形式にとらわれているだけであり、抑えることは可能である(ことが多い)。
 
+# メモの属性
+
+## タイトル
+
+## 本文
+
+## タグ
+
+## ラベル
+
+# 他アプリのメモ構造
+
+## Evernote
+[API Reference](http://dev.evernote.com/doc/reference/) の [CreateNote](http://dev.evernote.com/doc/reference/NoteStore.html#Fn_NoteStore_createNote) によると Types.Note 構造がある。
+
+[Types.Note](http://dev.evernote.com/doc/reference/Types.html#Struct_Note)
+
+- guid
+- title
+- content
+- date系
+  - created
+  - updated
+  - deleted
+- resources
+- attributes
+- tags
+- restrictions(shared note時の各種権限)
+- limits(アップロードサイズ限界など)
+- shared note
+
+[Attribute](http://dev.evernote.com/doc/reference/Types.html#Struct_NoteAttributes)
+
+- location 系
+  - latitude
+  - longitude
+  - altitude(高度)
+  - place name
+- remind系
+  - time(リマインド日時)
+  - order(数字が高いほど表示順が強い)
+  - done time(ユーザーが当該リマインドを却下or完了した時間)
+- source系
+  - source(どこからnoteを追加したか ← evernote desktop client の他にも色々あるみたい)
+  - source url(引用元 ← 特に web clipping 時の url？)
+  - source app(どのアプリからつくったか。アプリ毎に固有の識別子)
+- editor系
+  - author
+  - creator id
+  - last edited by
+  - last editor id
+- noteTitleQuality(タイトルが自動生成か手動入力か)
+- ……
+
+[Resouce](http://dev.evernote.com/doc/reference/Types.html#Struct_Resource)
+
+- ノートに埋め込み or 添付されたあらゆるメディア(を表現した構造)
+- guid
+- note guid
+- content(200MB上限)
+- mimetype
+- display系
+  - width(表示幅)
+  - height(表示高)
+- ……
+
+[Tag](http://dev.evernote.com/doc/reference/Types.html#Struct_Tag)
+
+- タグは parentguid 見てもわかるように階層構造を持てるタグ
+- guid
+- name
+- parend guid
+- 内部パラメータ
+  - update sequence num(更新された時にインクリメントされる、表示順制御に使うらしい)
+
 # ●misc
 リッチテキストとプレインテキスト。リッチでは単一ツールでリッチに。プレインでは軽さと管理市やすさと連携を。
 
