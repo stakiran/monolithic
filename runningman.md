@@ -181,7 +181,12 @@ title: ランニングマン研究所
 
 一般的には 8 小節以上の持続をもって成功とみなす。
 
-例: [Runningman BPM190 ランニングマン - YouTube](https://www.youtube.com/watch?v=AQw87QeNsG0)
+例:
+
+- [Runningman BPM190 ランニングマン - YouTube](https://www.youtube.com/watch?v=AQw87QeNsG0)
+- [Sakura Sunrise ランニングマン練習 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=q5QNhHxO2cM)
+  - BPM 181
+  - タップを認識して踏まないといけない分、ただの地面で行うよりも難しい
 
 ## 基礎トレ
 ランスペを向上させたり変化させたりすることを楽しむ。
