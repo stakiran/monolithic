@@ -74,7 +74,7 @@ https://twitter.com/Az_o6c
 https://twitter.com/ugogon
 
 - 8th KAC 決勝進出者
-- PIU で培った経験値とシャッフルにとらわれない多彩なトリックが持ち味
+- PIU で培った経験値とシャッフルにとらわれない多彩なトリック
 - KAC 後はダンスラメインでない
 
 ## 手乗り
