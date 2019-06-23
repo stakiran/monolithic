@@ -62,7 +62,7 @@ P 成果 Production
 PC 成果を生み出す能力 Production Capability
 3つの資産
   物的資産 金融的資産 人的資産
-
+★次第一から
 
 # ●misc
 とりあえずブレスト
