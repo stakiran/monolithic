@@ -132,6 +132,8 @@ title: ランニングマン研究所
 
 例: https://youtu.be/OPnz8nijuxU?t=84
 
+ダンスラの話だが [ランニングマン縛り](#ランニングマン縛り) において特に重要なテクニックで、踏み足とは反対側にあるノーツを自然に取ることができる。上体のひねりが入るため腹筋に負担がかかる。
+
 ## フラットランニングマン
 フラットランニングマン(Flat Runningman)とは、身体が上下方向に揺れないランニングマンのこと。「揺れない」の目安は(ダンスラの話になるが) DOWN 地帯でランニングマンをしても DOWN が反応しない程度である。
 
@@ -189,9 +191,20 @@ title: ランニングマン研究所
 例:
 
 - [Runningman BPM190 ランニングマン - YouTube](https://www.youtube.com/watch?v=AQw87QeNsG0)
+
+以下はスピードランではないが、ダンスラで取り入れてみた例:
+
 - [Sakura Sunrise ランニングマン練習 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=q5QNhHxO2cM)
   - BPM 181
-  - タップを認識して踏まないといけない分、ただの地面で行うよりも難しい
+- [「SigSig / kors k」 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/channel/UCKBCvyw8s_rhqhy-Qu6Ixig)
+  - BPM 179
+
+以下は他者による(スピードランではなくシャッフルだが) BPM 190 以上の例:
+
+- [yoshi@EXS(エクス)さんのツイート: &quot;EXStyleのご参考までに！(*´-`) 以前も同じのあげてますが、BPM190くらいでもこんな感じです！！ ＊早送りではありません！（╹◡╹）… &quot;](https://twitter.com/frozvitnir/status/1041824413753139200)
+- [LapinLait/178shuffle@ダンスラ民🥀💎さんのツイート: &quot;190BPM ﾑﾘ… &quot;](https://twitter.com/lapinlait178/status/1103873701487927296)
+- [melbourne shuffle practice (BPM training) - YouTube](https://www.youtube.com/watch?v=XL383db8kdA)
+  - 後半はギャグとのことだが 200 まである
 
 ## 基礎トレ
 ランスペを向上させたり変化させたりすることを楽しむ。
