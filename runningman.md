@@ -196,7 +196,7 @@ title: ランニングマン研究所
 
 - [Sakura Sunrise ランニングマン練習 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=q5QNhHxO2cM)
   - BPM 181
-- [「SigSig / kors k」 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/channel/UCKBCvyw8s_rhqhy-Qu6Ixig)
+- [「SigSig / kors k」 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=jQEL3ggUtHI)
   - BPM 179
 
 以下は他者による(スピードランではなくシャッフルだが) BPM 190 以上の例:
