@@ -202,9 +202,10 @@ title: ランニングマン研究所
 以下は他者による(スピードランではなくシャッフルだが) BPM 190 以上の例:
 
 - [yoshi@EXS(エクス)さんのツイート: &quot;EXStyleのご参考までに！(*´-`) 以前も同じのあげてますが、BPM190くらいでもこんな感じです！！ ＊早送りではありません！（╹◡╹）… &quot;](https://twitter.com/frozvitnir/status/1041824413753139200)
+  - 左で休んでいる HBoy さんが笑っているのが印象的である(この速さはネタの範疇なのだと思われる)
 - [LapinLait/178shuffle@ダンスラ民🥀💎さんのツイート: &quot;190BPM ﾑﾘ… &quot;](https://twitter.com/lapinlait178/status/1103873701487927296)
 - [melbourne shuffle practice (BPM training) - YouTube](https://www.youtube.com/watch?v=XL383db8kdA)
-  - 後半はギャグとのことだが 200 まである
+  - 後半は半分ギャグとのことだが 200 まである
 
 ## 基礎トレ
 ランスペを向上させたり変化させたりすることを楽しむ。
