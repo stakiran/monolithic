@@ -1,6 +1,6 @@
 ---
 layout: search_text
-title: Life Programming(ライフプログラミング)
+title: 検索フォームテスト
 ---
 
 :warning: ここは Search 機能の試す用のページです。Life Programming(ライフプログラミング) 自体は [こちら](life_programming.md) を参照してください。
