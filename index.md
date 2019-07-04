@@ -10,13 +10,13 @@ title: Monolithic
 
 ## コンテンツ
 - Progress
-  - 2019/07/01 (テスト用) [検索フォームを入れてみる](test_search_text.md)
   - 2019/06/21 [生産的に働くために必要なこと](productive_work_requirement.md)
   - 2019/06/17 [もしも私が情報の教員だったら](if_i_am_an_ict_teacher.md)
   - 2019/06/12 [メモ管理概論](memo_management.md)
   - 2019/06/12 [7つの習慣](7habits.md)
   - 2019/06/09 [ランニングマン研究所](runningman.md)
 - Archive(o=いったん完成 x=いったん頓挫)
+  - 2019/07/05 2019/07/01 x (テスト用) [検索フォームを入れてみる](test_search_text.md)
   - 2019/06/19 2019/06/04 o [タスク管理スタンス](task_management_stance.md)
   - 2019/06/18 2019/06/01 o [ミニマリズム](minimalism.md)
   - 2019/06/13 2019/04/14 o [趣味学](hobbilogy.md)
