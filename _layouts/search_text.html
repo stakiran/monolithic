@@ -2,6 +2,12 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
 
+      <style type="text/css">
+  #searchbox {
+    margin-top: 16px;
+  }
+    </style>
+
       <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script type="text/javascript">
       var countee_selector = '#content p, #content li, #content pre, #content h1, #content h2, #content h3, #content h4';
@@ -98,8 +104,10 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
     </header>
 
-    <input id="searchbox" type="text" size="20">
-    <p>Result:<strong id="item_count"></strong> items</p>
+    <div classs="search_area">
+      <input id="searchbox" type="text" size="20">
+      <p>Result:<strong id="item_count"></strong> items</p>
+    </div>
     <hr>
 
     <main id="content" class="main-content search_target_area" role="main">
