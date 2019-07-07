@@ -10,6 +10,7 @@ title: Monolithic
 
 ## コンテンツ
 - Progress
+  - 2019/07/07 [Silent Communication](silent_communication.md)
   - 2019/06/12 [7つの習慣](7habits.md)
   - 2019/06/09 [ランニングマン研究所](runningman.md)
 - Archive(o=いったん完成 x=いったん頓挫)
