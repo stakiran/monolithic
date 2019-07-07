@@ -307,6 +307,7 @@ title: ランニングマン研究所
 ### 筆者実績
 96% を達成したもの
 
+- 2019/07/06 [Disco Nights ふつう](https://www.youtube.com/channel/UCKBCvyw8s_rhqhy-Qu6Ixig)
 - 2019/06/09 [Catch Our Fire! ふつう](https://www.youtube.com/watch?v=aPTpSH0vCuI)
 - 2019/05/30 [Love 2 Shuffle ふつう](https://www.youtube.com/watch?v=O_qvdHUVgO0)
 - 2019/05/25 [LUV CAN SAVE U ふつう](https://www.youtube.com/watch?v=Ddm-FhmJnQ0)
