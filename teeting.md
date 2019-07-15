@@ -46,6 +46,8 @@ Teeting とはテキストチャットのみで打ち合わせを行うこと。
 # 既存事例調査
 
 ## co-meeting
+2018/01/31 にサービス終了している → [「co-meeting」サービス終了のお知らせ | 株式会社co-meeting | 株式会社co-meeting](https://www.co-meeting.co.jp/infomation-co-meeting-closing/)
+
 - [co-meetingはいかにテキストチャットで会議を実現したか – テキスト会議とは(2) -  株式会社co-meeting - 株式会社co-meeting](https://www.co-meeting.co.jp/co-meeting-what-text-meeting-2/)
 
 ライブタイピングチャット:
