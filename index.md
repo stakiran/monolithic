@@ -12,7 +12,7 @@ title: Monolithic
 - Progress
 - Archive(o=いったん完成 x=いったん頓挫)
   - 2019/07/26 2019/07/19 x [もしも私が新人教育のメンター(指導員)だったら](if_i_am_a_mentor_of_newbie.md)
-  - 2019/07/17 2019/06/09 x [ランニングマン研究所](runningman.md)
+  - 2019/07/17 2019/06/09 o [ランニングマン研究所](runningman.md)
   - 2019/07/15 2019/07/07 o [Silent Communication](silent_communication.md)
   - 2019/07/09 2019/06/12 x [7つの習慣](7habits.md)
   - 2019/07/07 2019/06/17 x [もしも私が情報の教員だったら](if_i_am_an_ict_teacher.md)
