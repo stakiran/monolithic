@@ -191,7 +191,7 @@ title: ミニマリズム
 
 現在では単に「思い切った片付け」「徹底的な片付け」くらいの意味として使われることが多い。ミニマイズの和訳と言っても過言ではない。
 
-※ :warning: ただし「断捨離」は商標登録であり、 [以前ミニマリスト Takeru さんが指摘されて騒動になっている](https://twitter.com/takechan4807/status/1135522222976643072) ため(特に自身の営利活動に絡む文脈で)使う場合は注意が必要だろう。関連情報: [1](https://www.teinai.work/entry/dansyarysyohyo) [2](https://news.yahoo.co.jp/byline/kuriharakiyoshi/20190613-00129985/)
+※ :warning: ただし「断捨離」は商標登録であり、 [以前ミニマリスト Takeru さんが指摘されて騒動になっている](https://twitter.com/takechan4807/status/1135522222976643072) ため(特に自身の営利活動に絡む文脈で)使う場合は注意が必要だろう。関連情報: [1](https://www.teinai.work/entry/dansyarysyohyo) [2](https://news.yahoo.co.jp/byline/kuriharakiyoshi/20190613-00129985/) [3](https://yamashitahideko.com/profile/)
 
 ## こんまりメソッド
 「ときめかないものは捨てる」というシンプルな基準によりモノを減らす手法および関連する思想。こんまりこと近藤麻理恵提唱。
