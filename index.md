@@ -11,6 +11,7 @@ title: Monolithic
 ## コンテンツ
 
 ### 進行中
+- 2019/09/07 [Hirorism(ヒトリズム)](hitorism.md)
 
 ### アーカイブ
 o=いったん完成 x=いったん頓挫
