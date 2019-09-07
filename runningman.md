@@ -311,17 +311,20 @@ title: ランニングマン研究所
 - 2019/06/09 [Catch Our Fire! ふつう](https://www.youtube.com/watch?v=aPTpSH0vCuI)
 - 2019/05/30 [Love 2 Shuffle ふつう](https://www.youtube.com/watch?v=O_qvdHUVgO0)
 - 2019/05/25 [LUV CAN SAVE U ふつう](https://www.youtube.com/watch?v=Ddm-FhmJnQ0)
+  - :sweat: 4n 崩し地帯が怪しい……
 
 まだ達成できてないもの
 
 - Shiva ふつう
-  - 切り返し地帯、癖でランニングマンが崩れる
-  - 体力保たない、せいぜい一日一回挑めるかどうか
-  - 2019/06/16 [94% 後半のライン](https://www.youtube.com/watch?v=Mk5DZUKtFY4)
-  - 2019/05/06 [精度も怪しい、現在 93% のライン](https://www.youtube.com/watch?v=oV7NexYaHss)
+  - 体力保たない、後半足が動かなくてノーツに追いつかずバックタップもできず、せいぜい一日一回挑めるかどうか
+  - ~~切り返し地帯、癖でランニングマンが崩れる~~ ok 2019/09/07 09:38:41
+  - 2019/08/24 [94% 前半のライン(ようやく失格無し)](https://www.youtube.com/watch?v=2LSssOR8Dok)
+  - 2019/06/16 [94% 後半のライン(途中失格)](https://www.youtube.com/watch?v=Mk5DZUKtFY4)
+  - 2019/05/06 [93% のライン(切り返し地帯全部失格)](https://www.youtube.com/watch?v=oV7NexYaHss)
 - The Light ふつう
   - 2019/06/02 [開幕 8 小節を除けばギリで達成できた](https://www.youtube.com/watch?v=_cMUO6bfG10)
 - smooooch ふつう
+  - 2019/07/13 [ランニングマンチャレンジで 79%](https://www.youtube.com/watch?v=2Zh9apouojA)
   - 2019/06/09 現在で半分も保たないし、身体能力的にあと数年は無理なのではという気がしている……
 
 ## シャトルランニングマン
@@ -403,19 +406,19 @@ SSS(Strong Smooth Style)とはランニングマンによる滑らかな移動�
 - BPM が速すぎなくても映えるはずである
 
 ### サンプル
-- 2019/07/21 :o: [これだけ暴れても 95% 取れる Catch Our Fire! (STARDOM Remix) #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/channel/UCKBCvyw8s_rhqhy-Qu6Ixig)
-  - 0:58 から滑らかさが神がかっているのは自画自賛か
-  - 激しい方向転換、上げ幅の少なさ、まあまあの速度(BPM140)のおかげ？
-  - もしかしたらエフェクトで画質落ちているせいで滑らかに見えるだけかもしれないが
-- 2019/07/15 :o: [Crazy Crazy Shuffle #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=kcff4tQeq2o)
-  - 0:00 から 0:25 くらいまで
-  - 良い具合に不規則さが出ていて上出来と自己評価
-- 2019/07/12 :x: [Summery Exercise #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=jaksr0O08ms)
-  - 全体
-  - こちらは逆に規則性が出てしまい、ただの「ランニングマン縛り」の域を出ていない
+- 2019/09/03 [視覚的うっとうしさ MAX の Crazy Shuffle #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=Yy0ZyUduSh0)
+  - :o: スコアは 93 と不十分だが、自由自在の移動とスコアの両立はできている
+  - :x: あとは見せ方の問題？(全体的に汚い感じがするが原因が読み取れない)
+- 2019/08/12 [「Catch Our Fire! (STARDOM Remix) / kors k」 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=0LLUmMWjk2A)
+  - :o: コンパクトながら余裕が感じられる
+  - :x: 動きと移動が単調
+  - :x: 0:28 からスタートしている(体力保たない)
+- 2019/07/15 [Crazy Crazy Shuffle #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=kcff4tQeq2o)
+  - :x: 0:00 から 0:25 くらい限定
+  - :o: 良い具合に不規則さが出ている
 
 ### 必要と思われる要素
-- 95% 以上のスコア
+- 92% 以上のスコア
   - スコアの最低ラインは「ダンスラ関係無しに踊る」ことを防ぐために必須である
 - 1-2比 が 1 であること
 - 曲中絶えず動き続けられる程度の持久力
