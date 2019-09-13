@@ -11,6 +11,7 @@ title: Monolithic
 ## コンテンツ
 
 ### 進行中
+- 2019/09/13 [Taskenism(タスケニズム)](taskenism.md)
 - 2019/09/12 [ヒトリストサラリーマンの生存戦略](hitorism_salaryman_strategy.md)
 - 2019/09/07 [Hirorism(ヒトリズム)](hitorism.md)
 
