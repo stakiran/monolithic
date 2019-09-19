@@ -488,8 +488,8 @@ EHIEL(Enhancement of Hobby Is Enhancement of Life) とは「趣味の充実は�
 ## 書籍
 - ソロエコノミーの襲来(荒川和久)
   - 瞬間的接続
-- ★感情と意思を象と乗り手でたとえたの、なんだっけ
-- ★ギバーの本
+- GIVE&TAKE 「与える人」こそ成功する時代(アダム・グラント)
+  - ギバー
 
 ## Web
 - [自己実現理論 - Wikipedia](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E5%AE%9F%E7%8F%BE%E7%90%86%E8%AB%96)
