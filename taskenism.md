@@ -617,10 +617,9 @@ After:
 
 ホームツールは以下が広く知られているが、他のツールや手段でまかなえる技量があるならそれでも良い。
 
-- ★リンク
-- Todoist(クラウド)
-- たすくま(スマホアプリ)
-- TaskChute(パソコンアプリ)
+- [Todoist(クラウド)](https://todoist.com/)
+- [たすくま(スマホアプリ)](https://apps.apple.com/jp/app/taskuma-taskchute-for-iphone/id896335635)
+- [TaskChute(パソコンアプリ)](https://cyblog.biz/pro/taskchute2/index2.php)
 
 ### 手順 > 
 
