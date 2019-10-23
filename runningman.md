@@ -332,15 +332,15 @@ title: ランニングマン研究所
 
 しかしシャトルランニングマンは極めて難しい(技術的にも体力的にも)ため、後述の純粋シャトルランニングマンに取り組むことが多い。
 
-## 純粋シャトルランニングマン
-純粋シャトルランニングマン(Pure Shuttle Running-Man / PSRM)とはスコア基準を設けず、譜面無視前提でただただ往復の回数を競うことに特化したシャトルランニングマン。
+## シャトルランニングマン
+シャトルランニングマンとは、譜面無視前提で、ただただ往復の回数を競うことに特化したシャトルランニングマン。
 
 例:
 
-- [DAWN OF FALCON(BPM=155) 純粋シャトルランニングマン 20回 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=W86YvWtNQRE)
-- [Butterfly(BPM=135) PSRM 33回 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=fLJSjMQFjz4)
-- [Hastur(BPM=118) 純粋シャトルランニングマン 38回 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=ze8EBJVHNiA)
+- [ダンスラ CoF でシャトルランニングマン 39 回 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=tdqR7JKtzK0)
 - [Love 2 Shuffle(BPM=133) 純粋シャトルランニングマン 41回 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=kYIdygOATPk)
+
+:memo: 用語の変遷。元々「シャトルランニングマン」とは「往復回数を競う＆スコアは90%以上」を指し、スコアを求めないものは「純粋シャトルランニングマン(Pure Shuttle Running-Man / PSRM)」と呼んでいた。しかし前者のシャトルランニングマンは難易度が極めて高いため廃止し、PSRM をシャトルランニングマンと呼ぶことにした。
 
 ### 往復とみなす位置(縦の場合)
 往復とは下記の第 1 辺と第 9 辺間を行き来すること。
@@ -527,6 +527,9 @@ now:
 - [Hboy@えいちぼ〜いさんのツイート: &quot;注意 【バックランニングマン】 という技が出始めましたが この技は 【リバースランニングマン】 という技です 誤情報が広まる前に....&quot;](https://twitter.com/hboy_shuffle/status/1028523981995835392)
 
 # 更新履歴
+- 2019/10/24 v0.5
+  - Change: 純粋シャトルランニングマン、の用語を廃止してシャトルランニングマンに統一
+  - Remove: シャトルランニングマンの動画例を 2 個に圧縮
 - 2019/09/07 v0.4
   - Add: ランニングマン縛りに Shiva 94% 完走例を追加
   - Add: SSS に夏休み以降の成果を追加
