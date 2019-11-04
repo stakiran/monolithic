@@ -11,6 +11,7 @@ title: Monolithic
 ## コンテンツ
 
 ### 進行中
+- 2019/11/04 [Shuffle Slide Skating(シャッフルスライドスケーティング)](shuffle_slide_skating.md)
 - 2019/09/27 [Taskenism TIPS](taskenism_tips.md)
 - 2019/09/18 [Hirorism Knowhow](hitorism_knowhow.md)
 - 2019/09/13 [Taskenism(タスケニズム)](taskenism.md)
