@@ -397,14 +397,13 @@ title: ランニングマン研究所
 ## バーサーカースタイル
 ランニングマン縛りを維持しつつ、上下左右に動き回って「暴れまわっている感」を表現したもの。
 
+2019/12/27 with ♪ランカーキラーガール (STARDOM Remix) / 中島由貴 × いちか
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1u7eAzD6_M4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- 19/12/27 [「Catch Our Fire! (STARDOM Remix) / kors k」 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=qJlFSP116o0)
 - 19/10/13 [「Catch Our Fire! (STARDOM Remix) / kors k」 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=aKviP8fRcfw)
-  - 主な成長点
-    - 最初から動いても体力が保つようになった
-    - 向きにバリエーションができた
-    - フロントランニングマンを導入した
 - 19/08/12 [「Catch Our Fire! (STARDOM Remix) / kors k」 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=0LLUmMWjk2A)
-  - 夏休み中に着想を得て練習した分の集大成
-  - 
 
 ### コツ
 ★
