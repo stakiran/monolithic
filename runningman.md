@@ -232,14 +232,16 @@ title: ランニングマン研究所
 
 解説は以下動画も参照。
 
-- 19/10/24 [ランニングマンだけで遊べるダンスラの遊び方５選 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=zLRV9dDmHW4)
+19/10/24 [ランニングマンだけで遊べるダンスラの遊び方５選 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=zLRV9dDmHW4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zLRV9dDmHW4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ランニングマン縛り
 二段引きのランニングマンのみで曲中のすべてのノーツを取り、できるだけ高いスコアを目指すこと。
 
 ### コツ
-- 最低でも曲中絶えずランニングマンを続けられる程度の地力は必要
-- 普通に遊んで 97% を難なく取れる程度の地力は必要
+- 最低でも曲中絶えずランニングマンを続けられる程度の地力(≒体力)は必要
+- 普通に遊んで 97% を難なく取れる程度の地力(≒精度)は必要
 - 踏み足で取れないノーツの対処は以下三通り
   - 1: パネル内を移動しながら踏むことで、踏み足で取れるようにする
   - 2: ひねりを入れる(クロスランニングマン)
@@ -294,7 +296,7 @@ title: ランニングマン研究所
 ### 譜面の難易度を構成する要素
 ランニングマン縛りとして遊ぶことを前提とした場合の、譜面の難易度を構成する要素について。
 
-以下が高い、多い、激しいほど難易度が高くなる。
+以下が高い/多い/激しいほど難易度が高くなる。
 
 - 1: BPM
 - 2: 両足ノーツ
@@ -311,6 +313,8 @@ title: ランニングマン研究所
 ### 筆者実績
 96% を達成したもの
 
+- 2020/01/11 [DAWN OF FALCON ふつう](https://www.youtube.com/watch?v=8MhQ2TfwLyM)
+- 2019/12/27 [JOK3R ふつう](https://www.youtube.com/watch?v=NzbwbWBHvqk)
 - 2019/07/06 [Disco Nights ふつう](https://www.youtube.com/watch?v=_WGLyOLhbDA)
 - 2019/06/09 [Catch Our Fire! ふつう](https://www.youtube.com/watch?v=aPTpSH0vCuI)
 - 2019/05/30 [Love 2 Shuffle ふつう](https://www.youtube.com/watch?v=O_qvdHUVgO0)
@@ -328,6 +332,7 @@ title: ランニングマン研究所
 - The Light ふつう
   - 2019/06/02 [開幕 8 小節を除けばギリで達成できた](https://www.youtube.com/watch?v=_cMUO6bfG10)
 - smooooch ふつう
+  - 2019/11/22 [ランニングマンチャレンジで 81%](https://www.youtube.com/watch?v=dkr0wmNahMg)
   - 2019/07/13 [ランニングマンチャレンジで 79%](https://www.youtube.com/watch?v=2Zh9apouojA)
   - 2019/06/09 現在で半分も保たないし、身体能力的にあと数年は無理なのではという気がしている……
 
