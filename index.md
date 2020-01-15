@@ -11,16 +11,18 @@ title: Monolithic
 ## コンテンツ
 
 ### 進行中
-- 2019/11/04 [Shuffle Slide Skating(シャッフルスライドスケーティング)](shuffle_slide_skating.md)
-- 2019/09/27 [Taskenism TIPS](taskenism_tips.md)
-- 2019/09/18 [Hirorism Knowhow](hitorism_knowhow.md)
-- 2019/09/13 [Taskenism(タスケニズム)](taskenism.md)
-- 2019/09/12 [ヒトリストサラリーマンの生存戦略](hitorism_salaryman_strategy.md)
-- 2019/09/07 [Hirorism(ヒトリズム)](hitorism.md)
+- 2020/01/15 ここ 2-3 ヶ月手つかずです
+  - 書き殴りは [tit - Today I Thought](https://stakiran.github.io/tit/) に浮気気味
 
 ### アーカイブ
 o=いったん完成 x=いったん頓挫
 
+- 2020/01/15 2019/11/04 x [Shuffle Slide Skating(シャッフルスライドスケーティング)](shuffle_slide_skating.md)
+- 2020/01/15 2019/09/27 x [Taskenism TIPS](taskenism_tips.md)
+- 2020/01/15 2019/09/18 x [Hirorism Knowhow](hitorism_knowhow.md)
+- 2020/01/15 2019/09/13 x [Taskenism(タスケニズム)](taskenism.md)
+- 2020/01/15 2019/09/12 o [ヒトリストサラリーマンの生存戦略](hitorism_salaryman_strategy.md)
+- 2020/01/15 2019/09/07 o [Hirorism(ヒトリズム)](hitorism.md)
 - 2019/07/26 2019/07/19 x [もしも私が新人教育のメンター(指導員)だったら](if_i_am_a_mentor_of_newbie.md)
 - 2019/07/17 2019/06/09 o [ランニングマン研究所](runningman.md)
 - 2019/07/15 2019/07/07 o [Silent Communication](silent_communication.md)
