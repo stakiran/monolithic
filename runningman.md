@@ -225,10 +225,8 @@ BPM を表す。もっぱらそのペースでランニングマンを引ける�
 
 以下はスピードランではないが、ダンスラで取り入れてみた例:
 
-- [Sakura Sunrise ランニングマン練習 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=q5QNhHxO2cM)
-  - BPM 181
-- [「SigSig / kors k」 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=jQEL3ggUtHI)
-  - BPM 179
+- [200111 SigSig ランニングマン進捗 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=T_8ps5XzjtQ)
+- [smooooch runningman challenge 81.467% #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=dkr0wmNahMg)
 
 以下は他者による(スピードランではなくシャッフルだが) BPM 190 以上の例:
 
