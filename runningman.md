@@ -221,7 +221,8 @@ BPM を表す。もっぱらそのペースでランニングマンを引ける�
 
 例:
 
-- [Runningman BPM190 ランニングマン - YouTube](https://www.youtube.com/watch?v=AQw87QeNsG0)
+- 19/11/17 [BPM 200 Runningman Practice - YouTube](https://www.youtube.com/watch?v=cTDWIy6SXRA)
+- 19/05/05 [Runningman BPM190 ランニングマン - YouTube](https://www.youtube.com/watch?v=AQw87QeNsG0)
 
 以下はスピードランではないが、ダンスラで取り入れてみた例:
 
@@ -668,6 +669,7 @@ now:
   - Add: ランスペの具体例と簡単な比較を追加
   - Add: ランニングマンエクササイズの進捗を追加
   - Change: 全体的に古い動画リンクを修正
+  - Change: スピードランの進捗を更新＆非公開になってたので公開
 - 2020/01/15 v0.7
   - Add: いくつか YouTube 埋め込みを入れてみた
   - Add: バーサーカースタイルの最新動画を追加
