@@ -392,10 +392,7 @@ BPM を表す。もっぱらそのペースでランニングマンを引ける�
 ## シャトルランニングマン
 シャトルランニングマンとは、譜面無視前提で、ただただ往復の回数を競うことに特化したシャトルランニングマン。
 
-例:
-
-- [ダンスラ CoF でシャトルランニングマン 39 回 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=tdqR7JKtzK0)
-- [Love 2 Shuffle(BPM=133) 純粋シャトルランニングマン 41回 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=kYIdygOATPk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D6mmNZIqbAQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 :memo: 用語の変遷。元々「シャトルランニングマン」とは「往復回数を競う＆スコアは90%以上」を指し、スコアを求めないものは「純粋シャトルランニングマン(Pure Shuttle Running-Man / PSRM)」と呼んでいた。しかし前者のシャトルランニングマンは難易度が極めて高いため廃止し、PSRM をシャトルランニングマンと呼ぶことにした。
 
