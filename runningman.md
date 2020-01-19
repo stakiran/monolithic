@@ -369,7 +369,7 @@ BPM を表す。もっぱらそのペースでランニングマンを引ける�
 - 2019/07/06 [Disco Nights ふつう](https://www.youtube.com/watch?v=_WGLyOLhbDA)
 - 2019/06/09 [Catch Our Fire! ふつう](https://www.youtube.com/watch?v=aPTpSH0vCuI)
 - 2019/05/30 [Love 2 Shuffle ふつう](https://www.youtube.com/watch?v=O_qvdHUVgO0)
-- 2019/05/25 [LUV CAN SAVE U ふつう](https://www.youtube.com/watch?v=Ddm-FhmJnQ0)
+- 2019/05/25 ~~[LUV CAN SAVE U ふつう](https://www.youtube.com/watch?v=Ddm-FhmJnQ0)~~ (2020/01/19 追記) よく見たら引けてないので無効
   - :sweat: 4n 崩し地帯が怪しい……
 
 まだ達成できてないもの
