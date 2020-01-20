@@ -11,6 +11,7 @@ title: Monolithic
 ## コンテンツ
 
 ### 進行中
+- 2020/01/20 [ダンスラッシュ ランニングマン縛り 曲別 難易度一覧](runningman_difficulty_drs.md)
 - 2020/01/15 ここ 2-3 ヶ月手つかずです
   - 書き殴りは [tit - Today I Thought](https://stakiran.github.io/tit/) に浮気気味
 
