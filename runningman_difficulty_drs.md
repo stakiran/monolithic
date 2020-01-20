@@ -29,6 +29,7 @@ title: DANCERUSH STARDOM ランニングマン縛り 曲別 難易度一覧
 | 4   | 106 | 捻   | -          | 崩4  | Flying soda ふつう | 序盤と中盤前に崩しがある(しかも捻り) |
 | 4   | 118 | 捻   | 2 ss       | -    | Hastur かんたん | 曲は遅いがロング拘束が多くストンプも少しある、練習には最適 |
 | 5   | 135 | -    | -          | -    | Butterfly かんたん |  |
+| 5   | 124 | 捻   | 2          | -    | :cat: Auto Click ふつう | レベル8では最弱の部類 |
 | 6   | 135 | 捻   | 2          | 崩3  | Second Heaven -Samba,Samba,SomeBody MIX- ふつう | レベル9では Disco Nights の次くらいに簡単 |
 | 6   | 128 | 捻   | 2 sb       | -    | :cat: Disco Nights ふつう | 浮かしの練習に最適、レベル9では一番かんたん |
 | 7   | 133 | 捻   | 2 sb       | -    | :cat: Love 2 Shuffle かんたん | RM 縛りで快適に遊べる譜面だが、まずまずの速度・密度・散らばりで地力が求められる |
