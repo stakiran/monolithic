@@ -633,16 +633,21 @@ now:
 - ……
 
 # ダンスラ ランニングマン練習曲の一覧
-★筆者が蓄えている「この曲はこういうランニングマンの練習ができる」的な情報をダンプしたい / or 自分用メモとして？
+- :runner: LV
+  - 1: 速くない、振り回されない、浮かなくていい、崩されない
+  - 2: どれか一つが
+  - 3: ……
+  - ★表にした方がいいかも
 
-- l2s かんたん、3倍アイスクリームふつう、disco nights 普通 ← RM 縛り完結できる
-  - バックタップも必要だが……
-- ……
+
+| 曲名と難易度 | LV   | BPM | :runner: LV | 備考 |
+| ------------ | ---- | --- | ----------- | ---- |
+| Butterfly かんたん | 6 | 135 | ？？ | 
 
 # 参考情報
 
 ## Web
-- [DANCERUSH STARDOM - BEMANIWiki 2nd](http://bemaniwiki.com/index.php?DANCERUSH%20STARDOM)
+- [DANCERUSH STARDOM/収録曲リスト - BEMANIWiki 2nd](http://bemaniwiki.com/index.php?DANCERUSH%20STARDOM/%BC%FD%CF%BF%B6%CA%A5%EA%A5%B9%A5%C8)
 - [DANCERUSH STARDOM(ダンスラ)で有酸素運動をする](https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/11/21/120300)
 - [音ゲーで運動もしたい人は DANCERUSH STARDOM(ダンスラ)すればいいかもという話](https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/11/29/071100)
 
