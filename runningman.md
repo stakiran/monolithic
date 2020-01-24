@@ -365,7 +365,7 @@ BPM を表す。もっぱらそのペースでランニングマンを引ける�
 96% を達成したもの
 
 - 2020/01/11 [DAWN OF FALCON ふつう](https://www.youtube.com/watch?v=8MhQ2TfwLyM)
-- 2019/12/27 [JOK3R ふつう](https://www.youtube.com/watch?v=NzbwbWBHvqk)
+- 2019/12/27 ~~[JOK3R ふつう](https://www.youtube.com/watch?v=NzbwbWBHvqk)~~ (2020/01/24 追記) 4n 崩しで引けてないので無効
 - 2019/07/06 [Disco Nights ふつう](https://www.youtube.com/watch?v=_WGLyOLhbDA)
 - 2019/06/09 [Catch Our Fire! ふつう](https://www.youtube.com/watch?v=aPTpSH0vCuI)
 - 2019/05/30 [Love 2 Shuffle ふつう](https://www.youtube.com/watch?v=O_qvdHUVgO0)
