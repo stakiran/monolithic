@@ -11,13 +11,12 @@ title: Monolithic
 ## コンテンツ
 
 ### 進行中
-- 2020/01/20 [ダンスラッシュ ランニングマン縛り 曲別 難易度一覧](runningman_difficulty_drs.md)
-- 2020/01/15 ここ 2-3 ヶ月手つかずです
-  - 書き殴りは [tit - Today I Thought](https://stakiran.github.io/tit/) に浮気気味
+なし
 
 ### アーカイブ
 o=いったん完成 x=いったん頓挫
 
+- 2020/01/26 2020/01/20 o [ダンスラッシュ ランニングマン縛り 曲別 難易度一覧](runningman_difficulty_drs.md)
 - 2020/01/15 2019/11/04 x [Shuffle Slide Skating(シャッフルスライドスケーティング)](shuffle_slide_skating.md)
 - 2020/01/15 2019/09/27 x [Taskenism TIPS](taskenism_tips.md)
 - 2020/01/15 2019/09/18 x [Hirorism Knowhow](hitorism_knowhow.md)
