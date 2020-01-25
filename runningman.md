@@ -382,6 +382,7 @@ BPM を表す。もっぱらそのペースでランニングマンを引ける�
   - 2019/06/16 [94% 後半のライン(途中失格)](https://www.youtube.com/watch?v=Mk5DZUKtFY4)
   - 2019/05/06 [93% のライン(切り返し地帯全部失格)](https://www.youtube.com/watch?v=oV7NexYaHss)
 - The Light ふつう
+  - 2020/01/25 [97% 到達できた](https://www.youtube.com/watch?v=PHMjOh6ksxU)
   - 2020/01/19 動画はないができた in 池ラ(96.8%)
   - 2019/06/02 [開幕 8 小節を除けばギリで達成できた](https://www.youtube.com/watch?v=_cMUO6bfG10)
 - smooooch ふつう
