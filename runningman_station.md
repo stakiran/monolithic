@@ -21,9 +21,7 @@ title: ランニングマンステーション
 - [from:@kakifly00 ランニングマン OR RM - Twitter検索](https://twitter.com/search?f=tweets&q=from%3A%40kakifly00%20%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3%20OR%20RM&src=typd)
 - [from:@schnecke5860 ランニングマン OR RM - Twitter検索](https://twitter.com/search?f=tweets&q=from%3A%40schnecke5860%20%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3%20OR%20RM&src=typd)
 
-# ダンスラ > 店鋪
-
-## :eyes: 情報収集
+## 店鋪
 - 東京
   - 池袋
     - [池ラ OR @dummyiddddddd -from:@r1_ikebukuro - Twitter検索 / Twitter](https://twitter.com/search?q=%E6%B1%A0%E3%83%A9%20OR%20%40dummyiddddddd%20-from%3A%40r1_ikebukuro&src=typed_query&f=live)
@@ -36,6 +34,20 @@ title: ランニングマンステーション
 - 広島
   - 市内
     - ["広ラ" OR @dummyiddddddd - Twitter検索 / Twitter](https://twitter.com/search?q=%22%E5%BA%83%E3%83%A9%22%20OR%20%40dummyiddddddd&src=typed_query&f=live)
+
+# ダンスラ店鋪メモ
+- 椅子
+  - 一人用を 1 とカウント
+  - ベンチは 2 とカウント(詰めずに座ることを想定)
+- 扇風機
+  - `(プレイヤー用):(待ち椅子用)`
+- ギャラリー
+  - 素: 未経験者の数
+  - プ: プレイヤーの数
+
+| 総合 | 台数 | メンテ | 椅子 | 扇風機 | 外出るまで | ギャラリー素 | ギャラリープ | 店名 | 更新メモと備考 | 
+| ---- | ---- | ------ | ---- | ------ | ---------- | ------------ | ------------ | ---- | -------------- |
+| 5    | 6    | Good   | 8    | 6-2    | 60s        | =====        | =====        | ラウンドワン池袋店 | 2020/01/25 |
 
 # ダンスラ > ランニングマン縛り 曲別難易度一覧
 - 捻り
