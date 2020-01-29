@@ -633,10 +633,8 @@ now:
       - 現状の仮説は？ → bpm100-110 のラインだと思ってる(私はえいにゃ 107 なら疲れている時でも問題なくランニングマン縛り完走できる / でも smooooch の 1/2 だと遅すぎて逆につらい / 100-110 あたりに潜んでると思うんだよなー)
 - ……
 
-# ダンスラ ランニングマン練習曲の一覧
-→ [ダンスラ ランニングマン縛り 曲別 難易度一覧](runningman_difficulty_drs.md)
-
 # 参考情報
+→ [ランニングマンステーション](runningman_station.md)
 
 ## Web
 - [DANCERUSH STARDOM/収録曲リスト - BEMANIWiki 2nd](http://bemaniwiki.com/index.php?DANCERUSH%20STARDOM/%BC%FD%CF%BF%B6%CA%A5%EA%A5%B9%A5%C8)
