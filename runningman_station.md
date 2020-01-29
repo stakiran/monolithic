@@ -7,7 +7,7 @@ title: ランニングマンステーション
 ステーション 検索ワード、スポットメモ、ランニングマン縛り
 
 # :eyes: 情報収集
-- タイトルのフッター ` - Twitter検索` や ` - Twitter検索 / Twitter` は消している
+- タイトルのフッター `- Twitter検索` や `- Twitter検索 / Twitter` は消している
 
 ## ランニングマンに言及する者たち
 - [smooooch OR スムーチ OR sigsig OR 酢酸 OR "sakura sunrise" AND ランニングマン OR RM OR @doesnotexistdummyid](https://twitter.com/search?f=tweets&q=smooooch%20OR%20%E3%82%B9%E3%83%A0%E3%83%BC%E3%83%81%20OR%20sigsig%20OR%20%E9%85%A2%E9%85%B8%20OR%20%22sakura%20sunrise%22%20AND%20%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3%20OR%20RM%20OR%20%40doesnotexistdummyid&src=typd)
