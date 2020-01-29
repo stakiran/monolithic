@@ -641,21 +641,9 @@ now:
 - [DANCERUSH STARDOM(ダンスラ)で有酸素運動をする](https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/11/21/120300)
 - [音ゲーで運動もしたい人は DANCERUSH STARDOM(ダンスラ)すればいいかもという話](https://stressfree-fulfilling-solo.hatenablog.com/entry/2018/11/29/071100)
 
-## Twitter
-- シャッフラーの発言
-    - [Hboy@えいちぼ〜いさんのツイート: &quot;注意 【バックランニングマン】 という技が出始めましたが この技は 【リバースランニングマン】 という技です 誤情報が広まる前に....&quot;](https://twitter.com/hboy_shuffle/status/1028523981995835392)
-- :eyes: ダンスラのランニングマン猛者を探す
-    - 早い曲決め打ち [smooooch OR スムーチ OR sigsig OR 酢酸 OR "sakura sunrise" AND ランニングマン OR RM OR @doesnotexistdummyid - Twitter検索](https://twitter.com/search?f=tweets&q=smooooch%20OR%20%E3%82%B9%E3%83%A0%E3%83%BC%E3%83%81%20OR%20sigsig%20OR%20%E9%85%A2%E9%85%B8%20OR%20%22sakura%20sunrise%22%20AND%20%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3%20OR%20RM%20OR%20%40doesnotexistdummyid&src=typd)
-    - 全般 [ダンスラ OR ダンスラッシュ AND ランニングマン OR RM OR @doesnotexistdummyid - Twitter検索](https://twitter.com/search?f=tweets&q=%E3%83%80%E3%83%B3%E3%82%B9%E3%83%A9%20OR%20%E3%83%80%E3%83%B3%E3%82%B9%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%20AND%20%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3%20OR%20RM%20OR%20%40doesnotexistdummyid&src=typd)
-    - 動画 [#dancerush_stardom RM OR ランニングマン - Twitter検索](https://twitter.com/search?f=tweets&q=%23dancerush_stardom%20RM%20OR%20%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3&src=typd)
-- :eyes: 一流達が見る世界
-    - [from:@Hboy_shuffle ランニングマン OR RM - Twitter検索](https://twitter.com/search?f=tweets&q=from%3A%40Hboy_shuffle%20%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3%20OR%20RM&src=typd)
-    - [from:@Anko_Rush ランニングマン OR RM - Twitter検索](https://twitter.com/search?f=tweets&q=from%3A%40Anko_Rush%20%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3%20OR%20RM&src=typd)
-    - [from:@__yamadaa__ ランニングマン OR RM - Twitter検索](https://twitter.com/search?f=tweets&q=from%3A%40__yamadaa__%20%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3%20OR%20RM&src=typd)
-    - [from:@schnecke5860 ランニングマン OR RM - Twitter検索](https://twitter.com/search?f=tweets&q=from%3A%40schnecke5860%20%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3%20OR%20RM&src=typd)
-    - [from:@kakifly00 ランニングマン OR RM - Twitter検索](https://twitter.com/search?f=tweets&q=from%3A%40kakifly00%20%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3%20OR%20RM&src=typd)
-
 # 更新履歴
+- 2020/01/29 v0.8.1
+  - Remove: 情報収集系リンクは [ランニングマンステーション](runningman_station.md) に移動
 - 2020/01/19 v0.8
   - Add: 用語「スタンブル」
   - Add: ランスペの具体例と簡単な比較を追加
