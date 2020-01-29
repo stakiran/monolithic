@@ -21,6 +21,22 @@ title: ランニングマンステーション
 - [from:@kakifly00 ランニングマン OR RM - Twitter検索](https://twitter.com/search?f=tweets&q=from%3A%40kakifly00%20%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3%20OR%20RM&src=typd)
 - [from:@schnecke5860 ランニングマン OR RM - Twitter検索](https://twitter.com/search?f=tweets&q=from%3A%40schnecke5860%20%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%B3%20OR%20RM&src=typd)
 
+# ダンスラ > 店鋪
+
+## :eyes: 情報収集
+- 東京
+  - 池袋
+    - [池ラ OR @dummyiddddddd -from:@r1_ikebukuro - Twitter検索 / Twitter](https://twitter.com/search?q=%E6%B1%A0%E3%83%A9%20OR%20%40dummyiddddddd%20-from%3A%40r1_ikebukuro&src=typed_query&f=live)
+    - [ダンスラ 池袋 - Twitter検索 / Twitter](https://twitter.com/search?q=%E3%83%80%E3%83%B3%E3%82%B9%E3%83%A9%20%E6%B1%A0%E8%A2%8B&src=typed_query&f=live)
+  - 秋葉原
+    - [ダンスラ アキバ OR 秋葉 OR 秋葉原 - Twitter検索 / Twitter](https://twitter.com/search?q=%E3%83%80%E3%83%B3%E3%82%B9%E3%83%A9%20%E3%82%A2%E3%82%AD%E3%83%90%20OR%20%E7%A7%8B%E8%91%89%20OR%20%E7%A7%8B%E8%91%89%E5%8E%9F&src=typed_query&f=live)
+- 神奈川
+  - 横浜
+    - ["横ラ" OR @dummyiddddddd - Twitter検索 / Twitter](https://twitter.com/search?q=%22%E6%A8%AA%E3%83%A9%22%20OR%20%40dummyiddddddd&src=typed_query&f=live)
+- 広島
+  - 市内
+    - ["広ラ" OR @dummyiddddddd - Twitter検索 / Twitter](https://twitter.com/search?q=%22%E5%BA%83%E3%83%A9%22%20OR%20%40dummyiddddddd&src=typed_query&f=live)
+
 # ダンスラ > ランニングマン縛り 曲別難易度一覧
 - 捻り
   - **身体をねじって「踏み足の反対側」を踏むもの**
