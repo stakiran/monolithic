@@ -566,7 +566,7 @@ BPM を表す。もっぱらそのペースでランニングマンを引ける�
 
 なぜかというと、BPM216 を引くレベルのランニングマンは **MAS 以上の強い踏み込み** を要するからだ。
 
-どこか BPM 181 の [200301 Sakura Sunrise ランニングマン進捗 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=oFmUrTScQZI) これも怪しい。太ももで吸収させてはいるが、傍から見ればパネルクラッシャーに見えるかもしれない。216 に要する瞬発力は、こんなものではない。
+どころか BPM 181 の [200301 Sakura Sunrise ランニングマン進捗 #DANCERUSH_STARDOM - YouTube](https://www.youtube.com/watch?v=oFmUrTScQZI) これも怪しい。太ももで吸収させてはいるが、傍から見ればパネルクラッシャーに見えるかもしれない。216 に要する瞬発力は、こんなものではない。
 
 ますますダンスラ離れが加速してしまう。練習環境としては素晴らしいだけに、残念だ。
 
