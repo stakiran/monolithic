@@ -4,10 +4,9 @@ title: ランニングマンステーション
 ---
 
 # ランニングマンステーション
-ステーション 検索ワード、スポットメモ、ランニングマン縛り
 
-# :eyes: 情報収集
-- タイトルのフッター `- Twitter検索` や `- Twitter検索 / Twitter` は消している
+# 情報収集
+タイトルのフッター `- Twitter検索` や `- Twitter検索 / Twitter` は消している。
 
 ## ダンスラ全般
 - [ダンスラ OR @dummyiddddddddd](https://twitter.com/search?q=%E3%83%80%E3%83%B3%E3%82%B9%E3%83%A9%20OR%20%40dummyiddddddddd&src=typed_query&f=live)
