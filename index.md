@@ -10,7 +10,8 @@ title: Monolithic
 
 ## コンテンツ
 
-### 進行中
+### ~~進行中~~
+(2020/04/29 追記) ここはもう更新しません。最近は Scrapbox [https://scrapbox.io/sta/](https://scrapbox.io/sta/)  に書いています。
 
 ### アーカイブ
 o=いったん完成 x=いったん頓挫
