@@ -8,6 +8,15 @@ title: ミニマリズム
 
 このページで扱うのはライフスタイルとしてのミニマリズムであり、芸術や文学など表現における一ジャンルとしてのミニマリズムは扱わない。
 
+# (2020/04/29 追記) ミニマリズムの本を出した
+本ページに書いてあるネタをしっかりまとめた + 筆者のミニマリスト生活例も交えた、という感じの電子書籍。
+
+[ミニマリズムの教科書](https://www.amazon.co.jp/dp/B086WR1YDZ)
+
+<a href="https://www.amazon.co.jp/dp/B086WR1YDZ">![06_minimalismc.jpg](img/bookcover_minimalism.jpg)</a>
+
+Kindle Unlimited にも対応している。
+
 # ミニマリズムの定義
 
 ## 権威による定義
