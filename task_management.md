@@ -8,6 +8,13 @@ title: タスク管理概説
 
 ※タスク管理に直接関与しない周辺については [タスク管理支援](task_management_support.md) や [主なタスク管理手法](task_management_methods.md) を参照。
 
+## (2020/06/02) NO LONGER MAINTAINED
+ここはもう更新されていません。
+
+体系化は下記 Scrapbox にて引き続き行っています。
+
+- :point_right: [タスク管理の体系化](https://scrapbox.io/sta-taskmanagement/)
+
 ## 目次構造
 大見出しの構造と概要についてのみまとめる。
 
