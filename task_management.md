@@ -13,7 +13,7 @@ title: タスク管理概説
 
 体系化は下記 Scrapbox にて引き続き行っています。
 
-- :point_right: [タスク管理の体系化](https://scrapbox.io/sta-taskmanagement/)
+:point_right: [タスク管理の体系化](https://scrapbox.io/sta-taskmanagement/)
 
 ## 目次構造
 大見出しの構造と概要についてのみまとめる。
