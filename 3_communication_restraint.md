@@ -201,7 +201,7 @@ Wiki のように「書き込みのしやすさ」「トピック指向（≒ペ
 2021/10 における例をいくつか挙げる。まだまだ発展途上であり、「こうあるべき」という統一性はまだ拓かれていない。
 
 - GitHub Issues …… Issue ベース
-    - 例: [Issues · microsoft/vscode https://github.com/microsoft/vscode/issues]
+    - 例: [Issues · microsoft/vscode](https://github.com/microsoft/vscode/issues)
     - GitHub の一機能であり、誰でも Issue という単位で自由に作成・コメントの追加・絵文字の付与などが行える
     - 元々は BTS（Bug Tracking System）用途であり、バグの報告・議論・管理として使うもの
     - しかしツールとして汎用的であるため、コミュニケーション用途でも使える
