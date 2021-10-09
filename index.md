@@ -4,9 +4,13 @@ title: Monolithic
 ---
 
 # Monolithic
-管理人こと [吉良野すた(stakiran)](https://stakiran.github.io/stakiran/) が書いた文章を置いてます。各文章は一つのテーマを一つのページ(Monolithic/一枚岩で)でまとめてます。いずれも不定期更新です。
+管理人こと [吉良野すた(stakiran)](https://stakiran.github.io/stakiran/) が書いた文章を置いてます。
 
-内容は全体的に主観的である(あくまでも筆者が持論をまとめたいのが第一欲求)ことに注意してください。参考情報も載せていますが、筆者による造語や独自概念も多いです。
+- 各文章は一つのテーマを一つのページ(Monolithic/一枚岩で)でまとめてます
+- いずれも不定期更新です
+- 内容は全体的に主観的である(あくまでも筆者が持論をまとめたいのが第一欲求)ことに注意してください
+    - 参考情報も載せていますが、筆者による造語や独自概念も多いです
+- このウェブサイトは [GitHub stakiran/monolithic](https://github.com/stakiran/monolithic) にて運用されています
 
 ## コンテンツ
 (2021/10/09) Scrapbox [https://scrapbox.io/sta/](https://scrapbox.io/sta/) で考えたことをきちんとまとめるために再開しました。
