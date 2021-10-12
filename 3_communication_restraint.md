@@ -401,8 +401,7 @@ LoTo に相当する、一般的な取り組みについても筆者の知る限
 
 - [Scrapbox As A TaskManagement - stakiran研究所](https://scrapbox.io/sta/Scrapbox_As_A_TaskManagement)
     - 上記のワークスタイルに関する詳細や成立条件などを軽く考察している（筆者サイト）
-- > 指示やお願いはslack、議論や相談をscrapboxですね
-    - [Day2 質問・雑談コーナー - Nota TechConf](https://scrapbox.io/nota-techconf/Day2_%E8%B3%AA%E5%95%8F%E3%83%BB%E9%9B%91%E8%AB%87%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC#6048ad7797c2910000d3de02)
+- > 指示やお願いはslack、議論や相談をscrapboxですね from [Day2 質問・雑談コーナー - Nota TechConf](https://scrapbox.io/nota-techconf/Day2_%E8%B3%AA%E5%95%8F%E3%83%BB%E9%9B%91%E8%AB%87%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC#6048ad7797c2910000d3de02)
 
 ### サマリー
 凡例: :runner: 具体例、:o: 主に向いていること、:x: 主に向いていないこと
