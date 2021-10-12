@@ -13,7 +13,7 @@ title: Monolithic
 - このウェブサイトは [GitHub stakiran/monolithic](https://github.com/stakiran/monolithic) にて運用されています
 
 ## コンテンツ
-(2021/10/09) Scrapbox [https://scrapbox.io/sta/](https://scrapbox.io/sta/) で考えたことをきちんとまとめるために再開しました。
+(2021/10/09) [Scrapbox(/sta)](https://scrapbox.io/sta/) で考えたことをきちんとまとめるために再開しました。
 
 - 2021/10/09 [コミュニケーションにおける「3つの拘束」](3_communication_restraint.md)
 
