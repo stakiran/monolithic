@@ -15,6 +15,7 @@ title: Monolithic
 ## コンテンツ
 (2021/10/09) [Scrapbox(/sta)](https://scrapbox.io/sta/) で考えたことをきちんとまとめるために再開しました。
 
+- [QoW(Quality Of Work)](qow.md)
 - 2021/10/13 [コミュニケーションにおける「3つの拘束」](3_communication_restraint.md)
 
 ## 旧コンテンツ
