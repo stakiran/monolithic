@@ -215,7 +215,7 @@ quality 質。ストレスフリーとしての質。Quality As A Stress-free
     - 疲れているといらつく
 
 ## 参考
-- [知的生産の技術 (岩波新書) | 梅棹 忠夫 |本 | 通販 | Amazon](https://www.amazon.co.jp/dp/4004150930)
+- [知的生産の技術 (岩波新書) - 梅棹 忠夫 -本 - 通販 - Amazon](https://www.amazon.co.jp/dp/4004150930)
     - ストレスフリーを「いかにしていらつきをへらすか」と定義している
 
 ## 更新履歴
