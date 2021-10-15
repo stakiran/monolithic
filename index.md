@@ -16,9 +16,11 @@ title: Monolithic
 (2021/10/09) [Scrapbox(/sta)](https://scrapbox.io/sta/) で考えたことをきちんとまとめるために再開しました。
 
 - 書いてる
-    - [QoW(Quality Of Work)](qow.md)
+    - .
 - 書いた
     - 2021/10/13 [コミュニケーションにおける「3つの拘束」](3_communication_restraint.md)
+- 頓挫
+    - 2021/10/15 [QoW(Quality Of Work)](qow.md)
 
 ## 旧コンテンツ
 (2020/04/29 追記) ここはもう更新しません。最近は Scrapbox [https://scrapbox.io/sta/](https://scrapbox.io/sta/)  に書いています。
