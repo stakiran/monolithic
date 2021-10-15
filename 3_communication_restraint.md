@@ -578,7 +578,7 @@ Scrapbox には「メンバー全員が自由に編集できるページ」の�
     - [心理的安全性のつくりかた　「心理的柔軟性」が困難を乗り越えるチームに変える](https://www.amazon.co.jp/dp/B08JVDFT59/) では、
     -  [異文化理解力 ― 相手と自分の真意がわかる ビジネスパーソン必須の教養](https://www.amazon.co.jp/dp/B013WB5BJS)
 - 音声入力の活用例
-    - [野口悠紀雄が実践した「究極の文章法」〜スマホ「音声入力」で本を書き上げた！（） | 現代ビジネス | 講談社（1/3）](https://gendai.ismedia.jp/articles/-/49020)
+    - [野口悠紀雄が実践した「究極の文章法」〜スマホ「音声入力」で本を書き上げた！（） - 現代ビジネス - 講談社（1/3）](https://gendai.ismedia.jp/articles/-/49020)
     - [私の音声入力と格闘した16年の歴史を語る - 勝間和代が徹底的にマニアックな話をアップするブログ](https://katsumakazuyo.hatenablog.com/entry/2021/09/16/110250)
 - [チャットコミュニケーションの問題と心理的安全性の課題 #EOF2019](https://www.slideshare.net/TokorotenNakayama/eof2019)
 - Scrapbox開発元
