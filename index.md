@@ -16,7 +16,7 @@ title: Monolithic
 (2021/10/09) [Scrapbox(/sta)](https://scrapbox.io/sta/) で考えたことをきちんとまとめるために再開しました。
 
 - 書いてる
-    - .
+    - [Teeting](teeting.md)
 - 書いた
     - 2021/10/13 [コミュニケーションにおける「3つの拘束」](3_communication_restraint.md)
 - 頓挫
@@ -59,7 +59,7 @@ o=いったん完成 x=いったん頓挫
 - 2019/05/15 2019/04/19 x [主なタスク管理手法](task_management_methods.md)
 - 2019/05/15 2019/04/17 x [Hack をひたすらまとめる試み](hacks.md)
 - 2019/05/13 2019/05/08 o [吉良野式支出管理](staspecon.md)
-- 2019/05/03 2019/04/03 x [Teeting(テキストチャットのみで会議する)](teeting.md)
+- 2019/05/03 2019/04/03 x [Teeting(テキストチャットのみで会議する)](teeting_old.md)
 - 2019/05/03 2019/04/15 x [Windows PC の効率化](efficy_windows.md)
 - 2019/05/03 2019/04/14 o (テスト用) [GitHub Pages Jekyll まわりの試行とか](test_githuboages_jekyll.md)
 
