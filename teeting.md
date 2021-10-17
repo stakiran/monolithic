@@ -212,6 +212,7 @@ Decide と Summarize の違い
     (A's phrase)
         |
         |
+        |
         V
     (Topic-X) <------(B's phrase)
       A  A
@@ -223,14 +224,15 @@ Decide と Summarize の違い
 
 話題Xの情報量が多い場合は、その補足phraseを繋げば良い
 
-    (補足phrase2)
-      |
-      |
-      V
-    (A's phrase) <------(補足phrase1)
-        |
-        |
-        V
+                  (補足phrase2)
+                      |
+                      |
+                      |
+    (A's phrase)      |
+        |             V
+        | +-------(Xの補足) <------(補足phrase1)
+        | | 
+        V V
     (Topic-X) <------(B's phrase)
       A  A
       |  |
