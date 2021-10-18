@@ -16,7 +16,7 @@ title: Monolithic
 (2021/10/09) [Scrapbox(/sta)](https://scrapbox.io/sta/) で考えたことをきちんとまとめるために再開しました。
 
 - 書いてる
-    - [Topik pick](topicpick.md)
+    - [Topic pick](topicpick.md)
     - [Teeting](teeting.md)
 - 書いた
     - 2021/10/13 [コミュニケーションにおける「3つの拘束」](3_communication_restraint.md)
