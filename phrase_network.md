@@ -84,7 +84,14 @@ title: Phrase Network
 
 ```
 
-## Q: Scrapboxと何が違う？
+## phrase と topic
+そもそも topic 要る？topicって何？
+
+ハッシュタグ使うのが直感的ではある。phrase に `#XXXについて` とか書けば、`XXXについて｀topic が生成される＆phraseとの関係も表現される。
+
+## Differences
+
+### Q: Scrapboxと何が違う？
 - Scrapboxは
     - Pageというノード
     - Page内は複数人が編集できる
@@ -103,6 +110,19 @@ title: Phrase Network
 
 - Scrapboxは「ノードは他人もいじれる」「エッジはただの無属性有向」
 - このモデルは「ノードは他人はいじれない」「エッジは有属性有向」
+
+### Q: Twitterとは何が違う？
+Phrase Network は
+
+- Phrase は後から編集できる（Twitterはできない）
+- Phrase はグラフ構造である（Twitterはリプライに基づく木構造）
+    - まあ引用リツイートやらURLで言及やらすれば繋げないこともないが
+- Phrase にはタイムラインがない（Twitterには必ずついている）
+    - ノードを工夫すればつくることもできる（と思う）
+- project という部屋概念がある（Twitterにはない）
+    - 鍵垢 + フォローで一応できるが、それでも 1-account 1-room
+- ★
+
 
 ## ステルスノード
 自分にしか見えないノードをつくれる。これをステルスノードという。
