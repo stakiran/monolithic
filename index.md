@@ -16,6 +16,7 @@ title: Monolithic
 (2021/10/09) [Scrapbox(/sta)](https://scrapbox.io/sta/) で考えたことをきちんとまとめるために再開しました。
 
 - 書いてる
+    - [Phrase Network](phrase_network.md)
     - [Topic pick](topicpick.md)
     - [Teeting](teeting.md)
 - 書いた
