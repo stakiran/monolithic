@@ -239,7 +239,7 @@ Some examples for 2021/10 are listed below. Some examples in 2021/10, which are 
                 - [Idobata](https://scrapbox.io/villagepump/)
                 - [Linguistic community "Synapse"](https://scrapbox.io/verbalizing-community/)
                 - [guiland](https://scrapbox.io/guiland/)
-- ~~OneNote and Box Notes~.
+- ~~OneNote and Box Notes~~
     - A flock of tools along the same lines as Scrapbox.
     - The functions and UI are still too weak to be used as a flocking tool.
         - I don't think it was ever intended to be used as a flocking tool in the first place.
