@@ -154,7 +154,7 @@ Here are some examples from 2021/10
     - The wiki engine in use is [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki/ja)
 - [@WIKI (at-wiki)](https://atwiki.jp/)
     - Mainly for game information, anime information, and other summary sites
-- Pukiwiki](https://pukiwiki.osdn.jp/)
+- [Pukiwiki](https://pukiwiki.osdn.jp/)
     - A domestic wiki engine.
     - I'm sure many readers will recognize it.
 - [GROWI](https://github.com/weseek/growi)
@@ -233,10 +233,10 @@ Some examples for 2021/10 are listed below. Some examples in 2021/10, which are 
     - Because of these factors, it is possible to "use as communication", which could not be achieved with the stock type.
         - Example
             - Using Scrapbox with family
-                - [Proposal to introduce Scrapbox in the home - yamaScrapbox](https://scrapbox.io/yamanoku/%E5%AE%B6%E5%BA%AD%E5%86%85%E3%81%ABScrapbox%E3%82%92%E5%B0%8E%) E5%85%A5%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B%E6%8F%90%E6%A1%88)
+                - [Proposal to introduce Scrapbox in the home - yamaScrapbox](https://scrapbox.io/yamanoku/%E5%AE%B6%E5%BA%AD%E5%86%85%E3%81%ABScrapbox%E3%82%92%E5%B0%8E%)
                 - [Scrapbox in the Family - The Well](https://scrapbox.io/villagepump/%E5%AE%B6%E6%97%8F%E3%81%A7Scrapbox)
             - Scrapbox community for public communication.
-                - [Idoha](https://scrapbox.io/villagepump/)
+                - [Idobata](https://scrapbox.io/villagepump/)
                 - [Linguistic community "Synapse"](https://scrapbox.io/verbalizing-community/)
                 - [guiland](https://scrapbox.io/guiland/)
 - ~~OneNote and Box Notes~.
