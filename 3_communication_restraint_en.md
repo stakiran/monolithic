@@ -408,7 +408,7 @@ If I had to guess, I would say that the way Nota works is a good reference. The 
 
 - [Scrapbox As A TaskManagement - stakiran institute](https://scrapbox.io/sta/Scrapbox_As_A_TaskManagement)
     - A light discussion of the details and conditions for the above work style (author's site)
-- > slack for instructions and requests, scrapbox for discussions and consultations from [Day2 Questions and Chat Corner - Nota TechConf](https://scrapbox.io/nota-techconf/Day2_%E8%B3%AA%E5%95%8F%E3%83%) BB%E9%9B%91%E8%AB%87%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC#6048ad7797c2910000d3de02)
+- > slack for instructions and requests, scrapbox for discussions and consultations from [Day2 Questions and Chat Corner - Nota TechConf](https://scrapbox.io/nota-techconf/Day2_%E8%B3%AA%E5%95%8F%E3%83%)
 
 ### Summary
 Legend: :runner: concrete examples, :o: things that are mainly suitable, :x: things that are mainly unsuitable
