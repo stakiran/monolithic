@@ -20,7 +20,7 @@ title: Monolithic
     - [Topic pick](topicpick.md)
     - [Teeting](teeting.md)
 - 書いた
-    - 2021/10/13 [コミュニケーションにおける「3つの拘束」](3_communication_restraint.md) [en](3_communication_restraint_en.md)
+    - 2021/10/13 [コミュニケーションにおける「3つの拘束」](3_communication_restraint.md) / [en](3_communication_restraint_en.md)
 - 頓挫
     - 2021/10/15 [QoW(Quality Of Work)](qow.md)
 
