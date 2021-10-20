@@ -506,7 +506,7 @@ I think the key to narrowing this gap lies in voice input. In my view, the key i
 
 In short, there are two points: lowering the hurdle of use, and reproducing or replacing the subtleties of oral communication.
 
-I think this is feasible. At least the technical elements are already in place. Voice recognition, which is probably the biggest concern, has already reached the realm of practical use, as shown by [Yukio Noguchi](https://gendai.ismedia.jp/articles/-/49020) and [Kazuyo Katsuma](https://katsumakazuyo.hatenablog.com/). entry/2021/09/16/110250) are using it in their work.
+I think this is feasible. At least the technical elements are already in place. Voice recognition, which is probably the biggest concern, has already reached the realm of practical use, as shown by [Yukio Noguchi](https://gendai.ismedia.jp/articles/-/49020) and [Kazuyo Katsuma](https://katsumakazuyo.hatenablog.com/entry/2021/09/16/110250) are using it in their work.
 
 ### De-chatting
 Chatting is still necessary because flocking is not real-time. As mentioned above, in the case of Nota, Slack is used for instructions and requests. However, there is a problem here as well.
