@@ -34,7 +34,7 @@ Example:
 - Attend an event that takes place between 17:00 and 19:00.
 
 ### Topic Constraints.
-**This means that you must be present at the meeting at 13:00.
+**The constraint of having to be there at the same time.**
 
 Example:
 
