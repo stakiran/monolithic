@@ -286,10 +286,10 @@ In this day and age, there are not many cases where only one particular way of d
 
 Example:
 
-- In "How to Create Psychological Safety: How 'Psychological Flexibility' Turns a Team into a Team that Overcomes Difficulties" (https://www.amazon.co.jp/dp/B08JVDFT59/), we find
+- In [How to Create Psychological Safety: How 'Psychological Flexibility' Turns a Team into a Team that Overcomes Difficulties](https://www.amazon.co.jp/dp/B08JVDFT59/), we find
     - There are four leadership styles that can be used depending on who you are working with.
-- In "Cross-Cultural Understanding - The Essential Education for Business People to Understand the True Intentions of Others and Yourself" (https://www.amazon.co.jp/dp/B013WB5BJS), it is stated that
-    - In [Cross-Cultural Understanding - Understanding the True Meaning of Others and Yourself - Essential Education for Business People](), it is stated that "the correct answer (stance on communication) changes depending on the culture (assumed by the other party).
+- In [Cross-Cultural Understanding - The Essential Education for Business People to Understand the True Intentions of Others and Yourself](https://www.amazon.co.jp/dp/B013WB5BJS), it is stated that
+    - "He said, "The right answer (stance on communication) changes depending on the culture that the other person (assumes)."
 
 The same is true for restraint breakthrough.
 
