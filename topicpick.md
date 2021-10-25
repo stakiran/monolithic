@@ -72,12 +72,12 @@ topic と page
     [topic]
      A A A
      | | |
-  +--+ | +--+
+  +--+ | +--+     Pick
   |    |    |
   |    |    |
  [P]  [P]  [P]
   A    A    A
-  |    |    |
+  |    |    |     Edit
   |    |    |
   a    b    c
 ```
@@ -88,11 +88,11 @@ topic collection
     [topic]  [topic]  [topic]
        A       A        A
        |       |        |
-       +----+  |        |
+       +----+  |        |       Link
             |  |        |
            [topiccollection]
                  A   A   A
-                 |   |   |
+                 |   |   |      Edit
                  |   |   |
                  a   b   c
 ```
@@ -103,12 +103,13 @@ page は topic collection にもリンクできる
     [topic]   [topic]    [topic]
      A A A         A       A
      | | |         |       |
+     | | |         |       |
   +--+ | +--+    [topiccollection]
   |    |    |      A
   |    |    |      |
  [P]  [P]  [P]-----+
   A    A    A
-  |    |    |
+  |    |    |      Link
   |    |    |
   a    b    c
 ```
@@ -149,7 +150,7 @@ n-Topic、n-TopicCollection、n-Userを持つ単位。ScrapboxでいうProject�
 ### リンクする
 `[pagename]` や `[topicname]` の形で、文法として書いて繋げること。
 
-### 指す
+### 刺す(Pick)
 各ユーザーが自分の personal public pageを繋げること。刺される先には、最大でn人分のpersonal public pageが刺す。刺される先からは、刺さっているpersonal public pageを自由に辿れるが、他人のそれは編集できない。
 
 ### フリーズする
