@@ -52,6 +52,67 @@ title: Topic pick
 
 # 各種概念
 
+## 図示
+凡例
+
+```
+ [x]     データ単位
+
+  a      ユーザー
+
+ A |
+ | |     関連（意味は src/dest によって異なる）
+ | V
+
+```
+
+topic と page
+
+```
+    [topic]
+     A A A
+     | | |
+  +--+ | +--+
+  |    |    |
+  |    |    |
+ [P]  [P]  [P]
+  A    A    A
+  |    |    |
+  |    |    |
+  a    b    c
+```
+
+topic collection
+
+```
+    [topic]  [topic]  [topic]
+       A       A        A
+       |       |        |
+       +----+  |        |
+            |  |        |
+           [topiccollection]
+                 A   A   A
+                 |   |   |
+                 |   |   |
+                 a   b   c
+```
+
+page は topic collection にもリンクできる
+
+```
+    [topic]   [topic]    [topic]
+     A A A         A       A
+     | | |         |       |
+  +--+ | +--+    [topiccollection]
+  |    |    |      A
+  |    |    |      |
+ [P]  [P]  [P]-----+
+  A    A    A
+  |    |    |
+  |    |    |
+  a    b    c
+```
+
 ## 単位
 
 ### トピック/Topic
