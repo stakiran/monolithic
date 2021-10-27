@@ -1,4 +1,9 @@
-## about 汎用、use 汎用ツール
+## ツールの形態
+- Scrapbox（N-page）
+- OneNote（1-page N-subpage）
+- Box Notes（1-page）
+#
+# about 汎用、use 汎用ツール
 scb前提ではなく、いったんゼロベースで「teetingできるツール」を考えてみる。
 
 ここでの前提
