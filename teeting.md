@@ -483,7 +483,7 @@ Teeting において TAFA(Timekeeping And FAcilitation) が重要であること
 # misc
 合意形成タイプとトップダウンモデル。 ← たぶん異文化理解力の全観点見るのが早い。
 
-# =====
+# ==== 以下は雑多 ====
 
 # methods
 
