@@ -68,3 +68,4 @@ o=いったん完成 x=いったん頓挫
 ## 筆者について
 - 著者: 吉良野すた(stakiran)
 - ウェブサイト: [https://stakiran.github.io/stakiran/](https://stakiran.github.io/stakiran/)
+- お問い合わせ: [お問い合わせ - stakiran研究所](https://scrapbox.io/sta/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B)
