@@ -195,33 +195,30 @@ n-Topic、n-Page、n-TopicCollection、n-Userを持つ単位。Scrapboxでいう
 ## リンク
 
 ### 記法
-scbベースで。
+まだあまり真面目に考えてない。scbベース。区切りは「刺す」ニュアンスが出てそうな`<`を使うことに。
 
 - トピックへのリンク
     - `[sta]`
 - トピックstaに刺してるstaさんのページ、へのリンク
-    - `[sta sta]`
+    - `[sta<sta]`
 - トピックstaに刺してるkiranoさんのページ、へのリンク
-    - `[sta kirano]`
+    - `[sta<kirano]`
 - url and alttext
     - `[sta https://scrapbox.io/sta]`
     - `[https://scrapbox.io/sta sta]`
 - to external project
     - `[/projectname]`
 - to external project specific topic
-    - `[/projectname topicX]`
+    - `[/projectname<topicX]`
 - to external project specific topic specific page
-    - `[/projectname topicX satoh]`
-- :memo: トピック名とページ名の区切りどうすればいいかがまだ
-    - スペースが楽だが矛盾でそう
-    - かといって何かの記号を特別扱いするのもエスケープだるそう
+    - `[/projectname<topicX<satoh]`
 
 リンクの視覚的区別
 
 - Scrapboxと同様、実在へのリンクと未存在へのリンクを視覚的に区別する
     - topickでは「このトピック（ページタイトル）にしてくれ」と収束が働く力学になると思ってる
         - 共同リンク集でn個の表記ゆれを書いた後、「あとこれとこれが修正できてねえぞ」ってのを可視化する
-        - 1つを除いたすべえが未存在リンクになった＝表記ゆれ吸収した
+        - 1つを除いたすべてが未存在リンクになった＝表記ゆれ吸収した
     - 視覚的区別があると、こういう作業をしやすい
     - あって損はない
 
