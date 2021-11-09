@@ -17,8 +17,8 @@ title: Monolithic
 
 - 書いてる
     - [Phrase Network](phrase_network.md)
-    - [Topic pick](topicpick.md)
 - 書いた
+    - 2021/11/10 [Topic pick](topicpick.md)
     - 2021/11/05 [Teeting(Text Meeting)](teeting.md)
     - 2021/10/13 [コミュニケーションにおける「3つの拘束」](3_communication_restraint.md) / [en](3_communication_restraint_en.md)
 - 頓挫
