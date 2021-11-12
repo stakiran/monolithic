@@ -49,7 +49,7 @@ title: Phrase Network
 - n-phrase を貯める単位
 - ユーザーはまず pool に phrase を投下し、その後、pool 内の phrase を plane に配置していく
 
-# トポロジー
+# トポロジー ～繋ぎ方のパターン～
 plane は phrase をノードとしたグラフと言えるが、ノードの繋ぎ方には主なパターンがある（名称はネットワーク・トポロジーの基本系とほぼ同じ）。
 
 ## Dot
@@ -118,6 +118,42 @@ Closed Chain(閉路)とも呼ばれる。終点から始点に戻れるという
 ```
 
 怪しい臭い(Smelly)を示す。メッシュは phrase の整理が上手くいっていないことを示す。
+
+# グラフネットワーク
+ノードとエッジ
+
+- ノードは phrase である
+- エッジ
+    - phrase と phrase を繋ぐ( **リンク** という)
+    - 有向である
+
+plane
+
+- plane は一つの面であり、一つの世界を表現する
+- n-graph が存在できる
+
+plane 内外におけるリンク
+
+- 基本的に同一 plane 内の node しか繋げない
+- しかし異なる plane の node に繋ぎに行くこともできる
+- 詳しく定義すると、
+    - node は、同一 plane であれば n 本のリンクが使える(internal-link、inlink)
+    - node は、異なる plane に対しては 1 本のリンクしか使えない(external-link、exlink)
+- つまり、1-node は N-inlink と 1-exlink を持つ
+- より詳しく言うと、
+    - L 枚の plane があるとして、
+    - そのうちの plane-1 に node-1 があるとした場合、
+    - node-1 は N 個の inlink を持てる
+    - node-1 は L-1 個までの exlink を持てる
+
+リンクの元と先
+
+- リンク元は phrase そのものであり、リンク先も phrase そのものである
+- 一般的にリンクには 4 つの形態がある
+    - in-in: Scrapboxの`[ページ名#XXXXXXXXXXXXXXXXXXXXXXXX]`
+    - in-ex: Scrapboxの`[ページ名]`
+    - ex-in: -
+    - ex-ex: **★pnが扱うのはここである**
 
 # 日付ベースの検討残骸
 
