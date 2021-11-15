@@ -275,16 +275,28 @@ phrase と phrase はリンクで繋げることができるが、基本的に�
 ## レイヤー操作
 基本的な CRUD はできて当たり前なので割愛する。
 
-### Duplicate layer
+### Duplicate
 ある layer-a を、layer-b として複製する。
 
 - b は必ず sub layer になる
 
-### Copy graph
-ある layer-a 内の部分グラフを、layer-b に複製する。
+### Copy
+ある layer-a 内の **部分グラフ** を、layer-b に複製する。
 
 - b は main layer も指定できる
-    - たとえば個人用 sub layer で仕上げたグラフを、main layer にコピーすることができる
+    - たとえば個人用 sub layer で仕上げたグラフを、main layer にコピーできる
+- b は a と同じでも良い
+    - たとえば main layer 内の部分グラフを複製できる
+
+Duplicate との違い
+
+- Duplicate は
+    - main から sub をつくる操作である
+    - layer 単位で複製する
+- Copy は
+    - main から sub でも、sub から main でも可能（一方向ではなく双方向）
+    - layer 単位ではなく、laner 内のグラフ単位
+    - 同じ layer 内でも行える
 
 ### Extract
 ある layer-a 内の部分グラフを、layer-b として切り出す。
