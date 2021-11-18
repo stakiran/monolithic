@@ -118,6 +118,7 @@ pn は phrase をノードとしたグラフ構造とも言える。
     - 有向である
 
 ## リンク
+![](img/phrase_network_inexlink.png)
 
 ### 内部リンク(inlink)
 - ノードは基本的に同一 plane 内でのみリンクできる
