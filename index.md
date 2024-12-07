@@ -13,7 +13,7 @@ title: Monolithic
 - このウェブサイトは [GitHub stakiran/monolithic](https://github.com/stakiran/monolithic) にて運用されています
 
 ## コンテンツ
-(2021/10/09) [Scrapbox(/sta)](https://scrapbox.io/sta/) で考えたことをきちんとまとめるために再開しました。
+(2021/10/09) 一瞬再開しましたが、たぶんもう更新しません。
 
 - 書いてる
     - -
@@ -26,7 +26,7 @@ title: Monolithic
     - 2021/10/15 [QoW(Quality Of Work)](qow.md)
 
 ## 旧コンテンツ
-(2020/04/29 追記) ここはもう更新しません。最近は Scrapbox [https://scrapbox.io/sta/](https://scrapbox.io/sta/)  に書いています。
+(2020/04/29 追記) ここはもう更新しません。
 
 o=いったん完成 x=いったん頓挫
 
@@ -69,4 +69,3 @@ o=いったん完成 x=いったん頓挫
 ## 筆者について
 - 著者: 吉良野すた(stakiran)
 - ウェブサイト: [https://stakiran.github.io/stakiran/](https://stakiran.github.io/stakiran/)
-- お問い合わせ: [お問い合わせ - stakiran研究所](https://scrapbox.io/sta/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B)
